@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-world/kingdom-of-sansi/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/0-world/kingdom-of-sansi/"}
 ---
 
 Sansi, a northern kingdom in the continent of Tinnuith, is renowned for its fertile farmlands and culinary delicacies. Recently emerging from a bloody civil war, the kingdom is rebuilding and adapting to a new political landscape. Sansi, located south of the imposing Eldengroth mountain range, was once a larger nation, but the western region of Lubnice seceded in 1018 UL (Under the Light), aligning itself with the [[0.World/Llerathian Empire\|Llerathian Empire]]. This event, coupled with internal strife, plunged the kingdom into a period of uncertainty and conflict.
