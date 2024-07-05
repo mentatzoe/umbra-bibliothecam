@@ -42,6 +42,7 @@ Conflicts and challenges come and go, but a question still stands unanswered: *
 | [[0.World/Regions of the Llerathian Empire\|Regions of the Llerathian Empire]] |
 | [[0.World/Kingdom of Sansi\|Kingdom of Sansi]]                                 |
 | [[0.World/Llerathian Empire\|Llerathian Empire]]                               |
+| [[0.World/Llerathian Scriptures\|Llerathian Scriptures]]                       |
 
 { .block-language-dataview}
 

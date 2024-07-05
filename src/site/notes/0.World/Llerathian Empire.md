@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/0-world/llerathian-empire/"}
 ---
 
-The **Llerathian Empire** is a theocratic nation located in a mountainous region, bordered to the south by the Eldengroth Mountains, and the Kingdom of Sansi. Founded in 991 (Year 0 Under the Light), after the Cataclysm nearly destroyed the Northern Kingdoms, Llerath is a nation deeply devoted to order and structure, guided by the Goddess Lucis Aeternitas, known as Lux. The empire's history is marked by conflict and expansion, notably the [annexation of the Protectorate of Lubnice in 1018 UL (1016-1018 UL)]([[0.World/Regions of the Llerathian Empire\|Regions of the Llerathian Empire]]) and the devastating First and Second War against the Free Nations. These conflicts have shaped Llerathian society, culture, and military, fostering a sense of isolationism and a deep distrust of outsiders.
+The **Llerathian Empire** is a theocratic nation located in a mountainous region, bordered to the south by the Eldengroth Mountains, and the Kingdom of Sansi. Founded in 991 (Year 0 Under the Light), after the Cataclysm nearly destroyed the Northern Kingdoms, Llerath is a nation deeply devoted to order and structure, guided by the Goddess Lucis Aeternitas, known as Lux. The empire's history is marked by conflict and expansion, notably the [[0.World/Separation of Sansi and Lubnice\|annexation of the Protectorate of Lubnice in 1018 UL (1016-1018 UL)]] and the devastating First and Second War against the Free Nations. These conflicts have shaped Llerathian society, culture, and military, fostering a sense of isolationism and a deep distrust of outsiders.
 
 ### History
 
@@ -38,7 +38,7 @@ The wars with the Free Nations have had a significant impact on the Llerathian m
 
 ### Culture
 
-Llerathian culture is deeply rooted in the worship of Lux and the pursuit of order. The people are known for their discipline, selflessness, and dedication to the empire. Magic is strictly regulated, with only Inquisitors, members of the Illumination Branch, allowed to wield it under the Goddess's blessing.
+Llerathian culture is deeply rooted in the worship of Lux, [[0.World/Llerathian Scriptures\|the scriptures]], and the pursuit of order. The people are known for their discipline, selflessness, and dedication to the empire. Magic is strictly regulated, with only Inquisitors, members of the Illumination Branch, allowed to wield it under the Goddess's blessing.
 
 The conflicts with the Free Nations have further solidified these cultural values. The Llerathians view their enemies as agents of chaos, and their military actions as a necessary defense against this threat. This has led to a hardening of attitudes towards outsiders and a reinforcement of the empire's isolationist tendencies. The arts, literature, and even cuisine have become increasingly focused on themes of patriotism, duty, and the glorification of Lux. The Spring Offering, a series of challenges for aspiring templars, has taken on a new significance, with a greater emphasis on combat training and the development of magical abilities.
 

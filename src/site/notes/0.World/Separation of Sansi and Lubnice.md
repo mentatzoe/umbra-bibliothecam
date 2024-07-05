@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/0-world/separation-of-sansi-and-lubnice/"}
 ---
 
-
 Long before the emergence of the abyssal plague that plagued the northern kingdoms, Sansi and Lubnice were two strongly bonded nations by common ties and common royal family. The alliance amongst both nations predated their personal union, driven largely by the great hero, Anniken Bue. 
 
 As the personal council and long time tutor to members of the Lubnice royal family at the time, his influence was critical towards the strengthening of the union. As the unknown disease spread through the lands, Aetsmon, now reborn as Lux Aeterna after her pilgrimage to the Elven pantheon, offered a solution to the peoples of Lubnice. 

@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/0-world/osterrend/"}
 ---
 
-
 Osterrend is a unique city within the NUL (Naciones Unidas por la Libertad, or United Nations for Liberty), renowned for its rich cultural exchange between humans, elves, and dwarves. This diversity has fostered rapid technological advancement, setting Osterrend apart from other cities in the region. The city is home to the esteemed High Technical School of the Artificer (AETA), the alma mater of Dietrich von Kunner, which thrives on this centuries-old multiculturalism. Osterrend is also the birthplace of the airships that form the backbone of the NUL's transportation network.
 ### A City-State Within a Nation
 
