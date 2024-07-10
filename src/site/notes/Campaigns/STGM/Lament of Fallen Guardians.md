@@ -33,3 +33,5 @@ The guardians wander, forever bound,
 In darkness' grip, their spirits wound. 
 Their light extinguished, their path unseen, 
 Lost to the echoes of what might have been.
+
+*A ballad by Knight Aurelius*
