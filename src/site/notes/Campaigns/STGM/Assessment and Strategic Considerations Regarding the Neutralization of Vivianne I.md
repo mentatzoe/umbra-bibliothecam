@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/campaigns/stgm/assessment-and-strategic-considerations-regarding-the-neutralization-of-vivianne-i/"}
 ---
 
+# Assessment and Strategic Considerations Regarding the Neutralization of Vivianne I
 
 **Introduction**
 

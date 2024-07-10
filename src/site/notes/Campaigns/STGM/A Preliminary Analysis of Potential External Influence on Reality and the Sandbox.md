@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/campaigns/stgm/a-preliminary-analysis-of-potential-external-influence-on-reality-and-the-sandbox/"}
 ---
 
+# A Preliminary Analysis of Potential External Influence on Reality and the Sandbox
 
 **Abstract**
 
