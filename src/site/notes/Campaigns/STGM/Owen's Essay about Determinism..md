@@ -18,12 +18,3 @@ Furthermore, Liadon's cryptic remarks about the "random seed" that we visitors p
 Liadon's observation about the unique connection between certain visitors and their descendants, as exemplified by my affinity for the Eye of Savras and Mercurion's bond with the Blight of Entropy, adds another layer of complexity to this situation. It suggests that our lineage and our connection to certain artifacts may play a role in our ability to disrupt the predetermined course of events.
 
 Liadon's proposition to use the Blight of Entropy to entrap Vivianne's spirit is a double-edged sword. While it may prevent a potentially catastrophic future, it could also provide TGI with the "seed of randomness" that Vivianne represents. The implications of this decision are far-reaching and require careful consideration.
-
-As a scholar and practitioner of magic, I am inclined towards skepticism and rigorous analysis. Therefore, my course of action will be as follows:
-
-1. **Verify Liadon's Claims:** I will attempt to independently verify Liadon's claims through divination and other means. This will involve delving deeper into the nature of the Sandbox, the fragments, and the enigmatic TGI.
-2. **Assess the Risks and Benefits:** I will carefully weigh the potential risks and benefits of entrapping Vivianne's spirit. This will involve considering the potential impact on the stability of our reality and the potential consequences for other "visitors."
-3. **Seek Counsel:** I will consult with my fellow Unnaturals and other trusted individuals to gain their perspectives and insights on this matter. Collaboration and open discussion are essential in navigating complex and potentially dangerous situations.
-4. **Formulate a Contingency Plan:** I will develop a contingency plan in case Liadon's warnings prove accurate. This plan will focus on mitigating the potential negative consequences of our actions and ensuring the safety and well-being of those under our protection.
-
-In conclusion, while Liadon's claims raise more questions than answers, they cannot be ignored. It is imperative that we investigate the veracity of his statements and take appropriate action to protect our reality and those who inhabit it. The path forward is uncertain, but I am confident that through careful analysis, collaboration, and a willingness to confront the unknown, we can navigate this complex situation and emerge stronger and more informed.
