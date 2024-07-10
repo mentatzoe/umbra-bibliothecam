@@ -34,15 +34,14 @@ Umbra Bibliothecam seeks to understand the balance between order and chaos, mean
 
 Conflicts and challenges come and go, but a question still stands unanswered: **can the smothering danger that threatens the world be defeated if its very existence is forgotten?**
 
-| File                                                                              |
-| --------------------------------------------------------------------------------- |
-| [[0.World/Separation of Sansi and Lubnice\|Separation of Sansi and Lubnice]]   |
-| [[0.World/Introduction to the World\|Introduction to the World]]               |
-| [[0.World/Osterrend\|Osterrend]]                                               |
-| [[0.World/Regions of the Llerathian Empire\|Regions of the Llerathian Empire]] |
-| [[0.World/Kingdom of Sansi\|Kingdom of Sansi]]                                 |
-| [[0.World/Llerathian Empire\|Llerathian Empire]]                               |
-| [[0.World/Llerathian Scriptures\|Llerathian Scriptures]]                       |
+| File                                                                            |
+| ------------------------------------------------------------------------------- |
+| [[0.World/Introduction to the World\|Introduction to the World]]             |
+| [[0.World/Kingdom of Sansi\|Kingdom of Sansi]]                               |
+| [[0.World/Llerathian Empire\|Llerathian Empire]]                             |
+| [[0.World/Llerathian Scriptures\|Llerathian Scriptures]]                     |
+| [[0.World/Osterrend\|Osterrend]]                                             |
+| [[0.World/Separation of Sansi and Lubnice\|Separation of Sansi and Lubnice]] |
 
 { .block-language-dataview}
 
