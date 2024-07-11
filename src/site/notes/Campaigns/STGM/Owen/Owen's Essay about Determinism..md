@@ -15,6 +15,6 @@ Liadon's warnings about the dangers of interacting with the Sandbox and the pote
 
 Furthermore, Liadon's cryptic remarks about the "random seed" that we visitors possess and the risk of TGI deciphering our "uniqueness" suggest that our very existence could be a threat to the established order. His warning that we could "give him a way to gain an edge against those that protect us" is deeply troubling.
 
-Liadon's observation about the unique connection between certain visitors and their descendants, as exemplified by my affinity for the Eye of Savras and Mercurion's bond with the Blight of Entropy, adds another layer of complexity to this situation. It suggests that our lineage and our connection to certain artifacts may play a role in our ability to disrupt the predetermined course of events.
+Liadon's observation about the unique connection between certain visitors and their descendants, as exemplified by my affinity for the ~~REDACTED~~ and Mercurion's bond with the Blight of Entropy, adds another layer of complexity to this situation. It suggests that our lineage and our connection to certain artifacts may play a role in our ability to disrupt the predetermined course of events.
 
 Liadon's proposition to use the Blight of Entropy to entrap Vivianne's spirit is a double-edged sword. While it may prevent a potentially catastrophic future, it could also provide TGI with the "seed of randomness" that Vivianne represents. The implications of this decision are far-reaching and require careful consideration.
