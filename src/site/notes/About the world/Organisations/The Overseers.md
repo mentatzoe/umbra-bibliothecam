@@ -6,7 +6,7 @@ All faiths in Tinnuith can be traced back to a divine pantheon known as the Over
 
 They represent the ultimate caretakers of the world, ensuring the balance of life, magic, and nature while guiding the inhabitants of Tinnuith to achieve their highest potential.
 
-Each Overseer has a particular domain as part of their portfolio with the exception of The Custodian, who is also in charge of coordinating the entire group.
+Each Overseer has a particular domain as part of their portfolio with the exception of The Custodian, who is also in charge of coordinating the entire group. This domain is then manifested in multiple spheres of influence that may be shared between multiple Overseers.
 
 - #### The Custodian, Keeper of Balance
 	- **Domain:** Light
@@ -17,6 +17,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Devotion/Duty**: As the ultimate coordinator, the Custodian ensures dedication to duty across all domains.
 		- **Arcana**: Oversees the balance of magical energies, ensuring that magic is used responsibly.
 		- **Navigation/Stars**: Guides the way, both literally (navigation) and metaphorically, ensuring that paths remain clear for progress.
+		
 - #### Lythara, Weaver of Infinite Patterns
 	- **Domain:** Life
 	- **Mission:** To weave the infinite patterns of life, guiding the threads of birth, growth, and evolution.
@@ -28,6 +29,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 	    - **Friendship**: Lythara's threads bind not only life but also connections between individuals.
 	    - **Seasons**: Lythara ensures that the natural rhythms of growth and renewal follow a set cycle, tied to the seasons.
 	    - **Earth**: Oversees the cycles of life tied to the natural world and the physical land.
+
 - #### Reziel, Commander of the Unbreakable Watch
 	- **Domain:** War
 	- **Mission:** Safeguard Tinnuith from threats, both internal and external, acting as the ultimate enforcer of protection and resilience.
@@ -37,6 +39,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Chivalry**: Oversees the moral code of warriors and the virtues of bravery and honor.
 		- **Victory**: Reziel commands victory in battles, ensuring that triumphs are won through resilience and strategy.
 		- **Annihilation/Extinction**: As a war god, Reziel can bring about the extinction of those who threaten the stability of the world.
+
 - #### **Stravion, Conductor of Boundless Growth**
 	- **Domain:** Tempest
 	- **Mission:** To govern the forces of change and growth, ensuring the world remains dynamic and ever-evolving.
@@ -49,6 +52,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Trade**: Stravion oversees trade and expansion, ensuring growth through exchange.
 		- **Temperature**: Controls both heat and cold as dynamic elements of growth.
 		- **Navigation/Stars**: Represents the stars as navigational tools for those seeking to explore and grow.
+
 - #### Dalgos, All-Seeing Sage
 	- **Domain:** Knowledge
 	- **Mission:** To gather and preserve knowledge, ensuring that wisdom and understanding are accessible to all who seek it.
@@ -59,6 +63,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **City/Civilization**: As civilization grows, so does the need for understanding, guided by Dalgos.
 		- **Ignorance/Stupidity**: Dalgos seeks to counter ignorance, bringing knowledge to all corners of the world.
 		- **Forge/Craft**: Oversees the creation of tools and objects that embody knowledge, particularly in magical craftsmanship.
+
 - #### Tchari, Healer of the Cycle
 	- **Domain:** Nature
 	- **Mission:** To heal the wounds of the world and guide the natural cycles of growth, decay, and renewal.
@@ -69,6 +74,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Decay/Entropy**: Oversees the natural process of decay, ensuring that nothing is wasted and that death fuels life.
 		- **Monsters**: Tchari is the guardian of creatures that roam the wilds, from beasts to monsters.
 		- **Fish/Sea Life**: Governs the natural order of sea life and the interconnectedness of marine ecosystems.
+
 - #### Derevya, The Harvester of the Lost
 	- **Domain:** Death
 	- **Mission:** To guide souls to the afterlife and ensure the natural cycle of life and death remains unbroken.
@@ -79,6 +85,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Undeath**: Governs the unnatural extension of life through undeath, though she disapproves of it.
 		- **Decay/Entropy**: Oversees the breakdown of matter after death, allowing new life to emerge.
 		- **Annihilation/Extinction**: Governs the extinction of species or groups when their time comes.
+
 - #### Knimick, The Unseen Hand
 	- **Domain:** Trickery
 	- **Mission:** To test the boundaries of reality and challenge the perceptions of mortals, ensuring they remain vigilant, resilient, and adaptable.
