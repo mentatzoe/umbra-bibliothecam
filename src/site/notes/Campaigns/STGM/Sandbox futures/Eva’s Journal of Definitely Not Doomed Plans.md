@@ -9,7 +9,7 @@
 - Team
 	- **Azaki:** _"Brooding. Sketchy. Owns the teleport device. Claims only he can use it. Sure, Jan. Keep an eye on him (and his Eldritch Blast). Also, why does he stare so much?"
 		- Also, ask if his teleport device doubles as a coffee machine.
-	- **Lenore:** _"Shape-shifter extraordinaire, but right now, it’s all about blending in. Great at thingamjigs. Reminder: if she starts mimicking my face again, I’m demanding hazard pay."_
+	- **Lenore:** _"Shape-shifter extraordinaire, but right now, it’s all about blending in. Great at thingamjigs. If she starts mimicking my face again, I’m demanding hazard pay."_
 - Targets:
 	- **Owen:** _"Master of foresight. Cold, calculating, brilliant. He plays the long game, always. Reminder: Don’t underestimate him—it’s like trying to out-think a library."_
 	- **Flare:** _"Fire incarnate, in every sense. Merged with lich queen, and now a force of nature* . Watch her music—it’s not just notes, it’s power."
