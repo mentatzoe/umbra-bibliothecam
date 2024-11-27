@@ -4,7 +4,7 @@
 
 
 
-**Entry 1: Who's involved**
+**Entry 1: Team
 
 - Team
 	- **Azaki:** _"Brooding. Sketchy. Owns the teleport device. Claims only he can use it. Sure, Jan. Keep an eye on him (and his Eldritch Blast). Also, why does he stare so much?"
@@ -37,3 +37,4 @@
 - "Dragons > Liches, but Flare > Both. Just saying."
 - _"The Cause hoards secrets like dragons hoard gold. Speaking of dragons—remember: their disappearance is really what kicked it all off. If Flare or Owen knows anything, we _must_ extract it."
 - _"If She admits them as Guardians of the Planar Balance... We must succeed."_
+- Ursula is really scary, and her girlfriend is even scarier. The Crescent Flame are weirdos.
