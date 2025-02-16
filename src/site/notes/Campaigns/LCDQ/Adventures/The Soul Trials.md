@@ -11,7 +11,7 @@
 > **Dónde:** Plaza del mercado (frente al Salón de Ceremonias), Ciudad de Almarrosa, el Sandbox.
 >**Quién:** Alythra, ~~Asahi~~ ~~Azuki~~ Azaki, Demmanu, Killian, Soror Millie.  
 > **Y también:** Med (disfrazade), Lady Alessandra Diamante, Korris, Rhea Circulus (mencionada), Galda Cavaglieri (la malabarista)
-> 
+> ---
 > - La proyección de Med en el Sandbox desaparece justo frente a los ojos de Millie.
 >     - Le deja una nota que dice: "Estoy bien, pero ten cuidado. ¿Quién es realmente el enemigo?"
 > ---

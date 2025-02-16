@@ -38,3 +38,6 @@
 - _"The Cause hoards secrets like dragons hoard gold. Speaking of dragons—remember: their disappearance is really what kicked it all off. If Flare or Owen knows anything, we _must_ extract it."
 - _"If She admits them as Guardians of the Planar Balance... We must succeed."_
 - Ursula is really scary, and her girlfriend is even scarier. The Crescent Flame are weirdos.
+
+Talk to someone outside of the organization about the World
+- What's NTK, what is con
