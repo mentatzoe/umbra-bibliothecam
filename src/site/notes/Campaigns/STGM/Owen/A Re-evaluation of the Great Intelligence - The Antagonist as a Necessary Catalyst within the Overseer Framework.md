@@ -5,7 +5,7 @@
 **A Whitepaper Submitted to *The Journal of Aetheric Innovations***
 
 **By Owen Singledown, Independent Scholar**
-1049
+1052
 
 **Abstract:**
 
