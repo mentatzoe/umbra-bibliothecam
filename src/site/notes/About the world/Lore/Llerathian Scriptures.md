@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about-the-world/lore/llerathian-scriptures/"}
 ---
 
-rustimc## Scriptures
+## Scriptures
 
 #### From the Codex of Light
 - "Chaos is a consuming flame, but the Light is an eternal beacon."

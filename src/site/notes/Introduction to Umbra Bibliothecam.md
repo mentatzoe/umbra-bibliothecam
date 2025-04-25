@@ -41,9 +41,9 @@ Conflicts and challenges come and go, but a question still stands unanswered: *
 | [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]                                                                             |
 | [[About the world/Higher powers/The Overseers\|The Overseers]]                                                                         |
 | [[About the world/History/Post-Cataclysm - Tinnuith's Timeline\|Post-Cataclysm - Tinnuith's Timeline]]                                 |
+| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                           |
 | [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]           |
 | [[About the world/History/Separation of Sansi and Lubnice\|Separation of Sansi and Lubnice]]                                           |
-| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                           |
 | [[About the world/History/Tinnuith Timeline - Concise Chronicle\|Tinnuith Timeline - Concise Chronicle]]                               |
 | [[About the world/Locations/Liadon's Pocket Dimension\|Liadon's Pocket Dimension]]                                                     |
 | [[About the world/Locations/Rocamayor Settlement\|Rocamayor Settlement]]                                                               |
@@ -75,13 +75,14 @@ Conflicts and challenges come and go, but a question still stands unanswered: *
 | [[About the world/People/Catalino I, King of Sansi\|Catalino I, King of Sansi]]                                                        |
 | [[About the world/People/Dietrich von Kunner\|Dietrich von Kunner]]                                                                    |
 | [[About the world/People/Lauren Evers\|Lauren Evers]]                                                                                  |
-| [[About the world/People/Leah Orsicia Malek\|Leah Orsicia Malek]]                                                                      |
 | [[About the world/People/Lord Famax\|Lord Famax]]                                                                                      |
 | [[About the world/People/MUD - Students\|MUD - Students]]                                                                              |
+| [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]                                            |
 | [[About the world/People/Professor Wesley Van Nuil\|Professor Wesley Van Nuil]]                                                        |
 | [[About the world/People/Theren Liadon Sr.\|Theren Liadon Sr.]]                                                                        |
 | [[About the world/People/Vivianne III, Queen of Criosia\|Vivianne III, Queen of Criosia]]                                              |
 | [[About the world/People/Void (Pelaios)\|Void (Pelaios)]]                                                                              |
+| [[About the world/People/Leah Orcisia Malek\|Leah Orcisia Malek]]                                                                      |
 
 { .block-language-dataview}
 
