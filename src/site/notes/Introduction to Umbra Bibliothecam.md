@@ -34,55 +34,60 @@ Umbra Bibliothecam seeks to understand the balance between order and chaos, mean
 
 Conflicts and challenges come and go, but a question still stands unanswered: **can the smothering danger that threatens the world be defeated if its very existence is forgotten?**
 
-| File                                                                                                                                      |
-| ----------------------------------------------------------------------------------------------------------------------------------------- |
-| [[About the world/Artefacts/Blight of Entropy\|Blight of Entropy]]                                                                     |
-| [[About the world/Higher powers/Knimick, The Unseen Hand\|Knimick, The Unseen Hand]]                                                   |
-| [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]                                                                             |
-| [[About the world/Higher powers/The Overseers\|The Overseers]]                                                                         |
-| [[About the world/History/Post-Cataclysm - Tinnuith's Timeline\|Post-Cataclysm - Tinnuith's Timeline]]                                 |
-| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                           |
-| [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]           |
-| [[About the world/History/Separation of Sansi and Lubnice\|Separation of Sansi and Lubnice]]                                           |
-| [[About the world/History/Tinnuith Timeline - Concise Chronicle\|Tinnuith Timeline - Concise Chronicle]]                               |
-| [[About the world/Locations/Liadon's Pocket Dimension\|Liadon's Pocket Dimension]]                                                     |
-| [[About the world/Locations/Rocamayor Settlement\|Rocamayor Settlement]]                                                               |
-| [[About the world/Locations/The Sigjund Complex\|The Sigjund Complex]]                                                                 |
-| [[About the world/Lore/Command Under Her Light\|Command Under Her Light]]                                                              |
-| [[About the world/Lore/Dear Dominic - Letters from Ciraya Monastery\|Dear Dominic - Letters from Ciraya Monastery]]                    |
-| [[About the world/Lore/Fragments of River Sidell - Bard Tales\|Fragments of River Sidell - Bard Tales]]                                |
-| [[About the world/Lore/Llerathian Scriptures\|Llerathian Scriptures]]                                                                  |
-| [[About the world/Lore/Soul of Vivianne III - Lore and Theories\|Soul of Vivianne III - Lore and Theories]]                            |
-| [[About the world/Nations/Almarrosa\|Almarrosa]]                                                                                       |
-| [[About the world/Nations/City-states of the NUL\|City-states of the NUL]]                                                             |
-| [[About the world/Nations/Confederation of Votar Tok\|Confederation of Votar Tok]]                                                     |
-| [[About the world/Nations/Kingdom of Criosia\|Kingdom of Criosia]]                                                                     |
-| [[About the world/Nations/Kingdom of Sansi\|Kingdom of Sansi]]                                                                         |
-| [[About the world/Nations/Kingdom of Tevara\|Kingdom of Tevara]]                                                                       |
-| [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]                                                                       |
-| [[About the world/Nations/Osterrend\|Osterrend]]                                                                                       |
-| [[About the world/Organisations/Las Astas del Rey\|Las Astas del Rey]]                                                                 |
-| [[About the world/Organisations/Llerathian Empire - Cont\|Llerathian Empire - Cont]]                                                   |
-| [[About the world/Organisations/Order of the Righteous Path of Good\|Order of the Righteous Path of Good]]                             |
-| [[About the world/Organisations/Organizations of the NUL\|Organizations of the NUL]]                                                   |
-| [[About the world/Organisations/The Cause\|The Cause]]                                                                                 |
-| [[About the world/Organisations/The Royal Court of Vivianne III, Queen of Criosia\|The Royal Court of Vivianne III, Queen of Criosia]] |
-| [[About the world/Organisations/The Vesper Crusaders\|The Vesper Crusaders]]                                                           |
-| [[About the world/Organisations/Warfa\|Warfa]]                                                                                         |
-| [[About the world/People/Azaki\|Azaki]]                                                                                                |
-| [[About the world/People/Brother Ash\|Brother Ash]]                                                                                    |
-| [[About the world/People/Camelia\|Camelia]]                                                                                            |
-| [[About the world/People/Catalino I, King of Sansi\|Catalino I, King of Sansi]]                                                        |
-| [[About the world/People/Dietrich von Kunner\|Dietrich von Kunner]]                                                                    |
-| [[About the world/People/Lauren Evers\|Lauren Evers]]                                                                                  |
-| [[About the world/People/Lord Famax\|Lord Famax]]                                                                                      |
-| [[About the world/People/MUD - Students\|MUD - Students]]                                                                              |
-| [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]                                            |
-| [[About the world/People/Professor Wesley Van Nuil\|Professor Wesley Van Nuil]]                                                        |
-| [[About the world/People/Theren Liadon Sr.\|Theren Liadon Sr.]]                                                                        |
-| [[About the world/People/Vivianne III, Queen of Criosia\|Vivianne III, Queen of Criosia]]                                              |
-| [[About the world/People/Void (Pelaios)\|Void (Pelaios)]]                                                                              |
-| [[About the world/People/Leah Orcisia Malek\|Leah Orcisia Malek]]                                                                      |
+| File                                                                                                                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[About the world/Artefacts/Blight of Entropy\|Blight of Entropy]]                                                                                                          |
+| [[About the world/Higher powers/Knimick, The Unseen Hand\|Knimick, The Unseen Hand]]                                                                                        |
+| [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]                                                                                                                  |
+| [[About the world/Higher powers/The Overseers\|The Overseers]]                                                                                                              |
+| [[About the world/History/Post-Cataclysm - Tinnuith's Timeline\|Post-Cataclysm - Tinnuith's Timeline]]                                                                      |
+| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                                                                |
+| [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]                                                |
+| [[About the world/History/Separation of Sansi and Lubnice\|Separation of Sansi and Lubnice]]                                                                                |
+| [[About the world/History/Tinnuith Timeline - Concise Chronicle\|Tinnuith Timeline - Concise Chronicle]]                                                                    |
+| [[About the world/Locations/Liadon's Pocket Dimension\|Liadon's Pocket Dimension]]                                                                                          |
+| [[About the world/Locations/Rocamayor Settlement\|Rocamayor Settlement]]                                                                                                    |
+| [[About the world/Locations/The Sigjund Complex\|The Sigjund Complex]]                                                                                                      |
+| [[About the world/Lore/Command Under Her Light\|Command Under Her Light]]                                                                                                   |
+| [[About the world/Lore/Dear Dominic - Letters from Ciraya Monastery\|Dear Dominic - Letters from Ciraya Monastery]]                                                         |
+| [[About the world/Lore/Fragments of River Sidell - Bard Tales\|Fragments of River Sidell - Bard Tales]]                                                                     |
+| [[About the world/Lore/Llerathian Scriptures\|Llerathian Scriptures]]                                                                                                       |
+| [[About the world/Lore/Soul of Vivianne III - Lore and Theories\|Soul of Vivianne III - Lore and Theories]]                                                                 |
+| [[About the world/Lore/Discurso de Nombramiento de Princesa de la Llama Ardiente, Vanera Demian\|Discurso de Nombramiento de Princesa de la Llama Ardiente, Vanera Demian]] |
+| [[About the world/Lore/Untitled\|Untitled]]                                                                                                                                 |
+| [[About the world/Lore/Appointment Speech of the Princess of the Burning Flame, Vanera Demian\|Appointment Speech of the Princess of the Burning Flame, Vanera Demian]]     |
+| [[About the world/Nations/Almarrosa\|Almarrosa]]                                                                                                                            |
+| [[About the world/Nations/City-states of the NUL\|City-states of the NUL]]                                                                                                  |
+| [[About the world/Nations/Confederation of Votar Tok\|Confederation of Votar Tok]]                                                                                          |
+| [[About the world/Nations/Kingdom of Criosia\|Kingdom of Criosia]]                                                                                                          |
+| [[About the world/Nations/Kingdom of Sansi\|Kingdom of Sansi]]                                                                                                              |
+| [[About the world/Nations/Kingdom of Tevara\|Kingdom of Tevara]]                                                                                                            |
+| [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]                                                                                                            |
+| [[About the world/Nations/Osterrend\|Osterrend]]                                                                                                                            |
+| [[About the world/Organisations/Las Astas del Rey\|Las Astas del Rey]]                                                                                                      |
+| [[About the world/Organisations/Llerathian Empire - Cont\|Llerathian Empire - Cont]]                                                                                        |
+| [[About the world/Organisations/Order of the Righteous Path of Good\|Order of the Righteous Path of Good]]                                                                  |
+| [[About the world/Organisations/Organizations of the NUL\|Organizations of the NUL]]                                                                                        |
+| [[About the world/Organisations/The Cause\|The Cause]]                                                                                                                      |
+| [[About the world/Organisations/The Royal Court of Vivianne III, Queen of Criosia\|The Royal Court of Vivianne III, Queen of Criosia]]                                      |
+| [[About the world/Organisations/The Vesper Crusaders\|The Vesper Crusaders]]                                                                                                |
+| [[About the world/Organisations/Warfa\|Warfa]]                                                                                                                              |
+| [[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]]                                                                                          |
+| [[About the world/People/Azaki\|Azaki]]                                                                                                                                     |
+| [[About the world/People/Brother Ash\|Brother Ash]]                                                                                                                         |
+| [[About the world/People/Camelia\|Camelia]]                                                                                                                                 |
+| [[About the world/People/Catalino I, King of Sansi\|Catalino I, King of Sansi]]                                                                                             |
+| [[About the world/People/Dietrich von Kunner\|Dietrich von Kunner]]                                                                                                         |
+| [[About the world/People/Lauren Evers\|Lauren Evers]]                                                                                                                       |
+| [[About the world/People/Lord Famax\|Lord Famax]]                                                                                                                           |
+| [[About the world/People/MUD - Students\|MUD - Students]]                                                                                                                   |
+| [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]                                                                                 |
+| [[About the world/People/Professor Wesley Van Nuil\|Professor Wesley Van Nuil]]                                                                                             |
+| [[About the world/People/Theren Liadon Sr.\|Theren Liadon Sr.]]                                                                                                             |
+| [[About the world/People/Vivianne III, Queen of Criosia\|Vivianne III, Queen of Criosia]]                                                                                   |
+| [[About the world/People/Void (Pelaios)\|Void (Pelaios)]]                                                                                                                   |
+| [[About the world/People/Leah Orcisia Malek\|Leah Orcisia Malek]]                                                                                                           |
+| [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]]                                                                                                           |
 
 { .block-language-dataview}
 
