@@ -14,7 +14,7 @@
 | **Status**      | **Missing** (Disappeared c. 57-58 UL)                                                       |
 #### Overview
 
-Leah Orcisia Malek is the sole known surviving heir of the noble Orcisia family, a line historically significant within the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] before facing tragedy. Forced into the Temple system as a **Volunteer** under the male alias **Gael** due to past circumstances (potentially linked to a period of captivity and mysterious tattoos), she trained alongside Hopefuls [[Theren Liadon\|Theren Liadon]], Keith (7313), and Lemons (2841) under Inquisitor [[Bel'Dath\|Bel'Dath]]. As Gael, she proved to be a capable if sometimes volatile operative. After revealing her true identity, she participated in the harrowing mission to rescue the abducted Goddess [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]. Briefly regaining her family lands as recompense, Leah disappeared without a trace shortly thereafter, leaving her ultimate fate and allegiances uncertain.
+Leah Orcisia Malek is the sole known surviving heir of the noble Orcisia family, a line historically significant within the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] before facing tragedy. Forced into the Temple system as a **Volunteer** under the male alias **Gael** due to past circumstances (potentially linked to a period of captivity and mysterious tattoos), she trained alongside Hopefuls [[Theren Liadon \| Theren]], [[About the world/People/Primus Aegis Keith\|Keith]] (7313), and Lemons (2841) under Inquisitor [[Bel'Dath\|Bel'Dath]]. As Gael, she proved to be a capable if sometimes volatile operative. After revealing her true identity, she participated in the harrowing mission to rescue the abducted Goddess [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]. Briefly regaining her family lands as recompense, Leah disappeared without a trace shortly thereafter, leaving her ultimate fate and allegiances uncertain.
 
 ---
 
@@ -51,7 +51,7 @@ Across both identities, Leah is fundamentally resilient, adaptable, and fiercely
 
 *   **Orcisia Family:** Sole known heir.
 *   **[[About the world/Nations/Llerathian Empire\|Llerathian Empire]]:** Formerly a Volunteer, status potentially elevated to Initiate after Spring Games/Rescue Mission before disappearance.
-*   **Former Training Squad Members:** Shared history with Primus Inquisitor Theren Liadon, Primus Aegis Keith, and Primus Lemons.
+*   **Former Training Squad Members:** Shared history with [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]], [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]], and [[Primus Lemons\|Primus Lemons]].
 
 ---
 
