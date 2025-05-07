@@ -119,8 +119,6 @@ He simultaneously pursues his personal investigation into the Liadon legacy, see
 ---
 #### Trivia
 
-- Was known exclusively by the nickname "Musgo" during his time as a Hopeful within the Temple system.
-- Won the Recitation trial of the Spring Games (55 UL) by composing and presenting a Haiku.
 - His diverse reading habits include unexpected subjects like river crab ecosystems and orcish armory treatises (from which he derived knowledge of gunpowder).
 - Once accidentally kissed Leah/Gael during a chaotic moment in combat training on an early mission.
 - Utilized his illusion magic to portray the lead role in a theatrical performance during the Spring Games celebrations.

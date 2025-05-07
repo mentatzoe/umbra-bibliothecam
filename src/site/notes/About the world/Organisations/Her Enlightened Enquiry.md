@@ -100,19 +100,3 @@ Outside Llerath, particularly within the [[NUL\|NUL]], Her Enlightened Enquiry i
 *   [[Primus Lemons\|Primus Lemons]] (Head of Defense, former Squadmate)
 
 ---
-
-#### Related Articles
-
-*   [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]
-*   [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]
-*   [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]
-*   [[Keith\|Keith]]
-*   [[Inquisitor Astraea\|Inquisitor Astraea]]
-*   [[NUL\|NUL]]
-*   [[About the world/Organisations/The Cause\|The Cause]]
-*   [[Magic in Llerath\|Magic in Llerath]]
-
----
-**Tags:** #organization #llerath #inquisition #magic_regulation #illumination_branch #theocracy #order_vs_chaos
-
-

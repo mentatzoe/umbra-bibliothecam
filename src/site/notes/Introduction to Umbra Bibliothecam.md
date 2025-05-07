@@ -88,6 +88,7 @@ Conflicts and challenges come and go, but a question still stands unanswered: *
 | [[About the world/People/Void (Pelaios)\|Void (Pelaios)]]                                                                                                                   |
 | [[About the world/People/Leah Orcisia Malek\|Leah Orcisia Malek]]                                                                                                           |
 | [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]]                                                                                                           |
+| [[About the world/People/Primus Vindicator Lemons\|Primus Vindicator Lemons]]                                                                                               |
 
 { .block-language-dataview}
 
