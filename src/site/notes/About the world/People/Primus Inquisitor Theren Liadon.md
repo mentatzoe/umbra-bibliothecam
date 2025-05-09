@@ -5,7 +5,7 @@
 
 > [!infobox|right]
 > # Theren Liadon
-> ![Pasted image 20250423185943.png](/img/user/Pasted%20image%2020250423185943.png) Art by [@Theri_Dae](https://x.com/theri_dae)
+> ![Theren-Profile.png](/img/user/About%20the%20world/People/Theren-Profile.png) Art by [@Theri_Dae](https://x.com/theri_dae)
 > 
 > ###### Basic information
 > |  | |

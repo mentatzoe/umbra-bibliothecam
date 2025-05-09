@@ -4,9 +4,9 @@
 
 The civil war that broke out in Sansi has been one of the bloodiest and most brutal seen in decades. For months, the streets of cities and towns were battlefields, and the skies were darkened by columns of smoke rising from burning buildings.
 
-[[The Cheese Company\|The Cheese Company]] was fighting alongside [[King Catalino I\|King Catalino I]] and his forces, against the supporters of the Barbero, led by [[Matias Barbero\|Matias Barbero]]. The fight was fierce and the adventurers found themselves in the center of the action, fighting for justice and the freedom of the people of [[Sansi.\|Sansi.]]
+[[About the world/Organisations/The Cheese Company\|The Cheese Company]] was fighting alongside [[King Catalino I\|King Catalino I]] and his forces, against the supporters of the Barbero, led by [[Matias Barbero\|Matias Barbero]]. The fight was fierce and the adventurers found themselves in the center of the action, fighting for justice and the freedom of the people of [[Sansi.\|Sansi.]]
 
-Despite the courage and determination of the allies, victory seemed distant, until an Orc armada led by a semi-orc commander named [[Guan Dao\|Guan Dao]], the Dominguez faction finally managed to break the power of the Barbero and win the war. The leader of the rebels was killed, thus appeasing the opposition.
+Despite the courage and determination of the allies, victory seemed distant, until an Orc armada led by a semi-orc commander named [[About the world/People/Guan Dao\|Guan Dao]], the Dominguez faction finally managed to break the power of the Barbero and win the war. The leader of the rebels was killed, thus appeasing the opposition.
 
 The monarch, now undisputed on his throne, offered the orphans adopted by the Company a new definitive home in the royal castle. [[Selene\|Selene]] found happiness there, while [[Michael\|Michael]] continued training to become one of the elite Royal Guards of the king. Meanwhile, Guan Dao and his forces settled in Sencia, a decision that has begun to cause tensions in the region.
 

@@ -23,10 +23,10 @@ Sansi's culture is a blend of human traditions and influences from neighboring r
 
 - **[[About the world/People/Catalino I, King of Sansi\|King Catalino I]]:** The young but resilient king of Sansi, who has recently emerged victorious from a brutal civil war.
 - **[[Queen Helena Mulinterno\|Queen Helena Mulinterno]]:** The king's mother and a powerful political figure, known for her ambition and cunning.
-- **[[Guan Dao\|Guan Dao]]:** The semi-orc commander whose orcish forces played a crucial role in the civil war and now reside in Sencia.
-- **[[The Cheese Company\|The Cheese Company]]:** A band of adventurers who fought alongside King Catalino I and Guan Dao in the civil war.
+- **[[About the world/People/Guan Dao\|Guan Dao]]:** The semi-orc commander whose orcish forces played a crucial role in the civil war and now reside in Sencia.
+- **[[About the world/Organisations/The Cheese Company\|The Cheese Company]]:** A band of adventurers who fought alongside King Catalino I and Guan Dao in the civil war.
 - **[[About the world/Organisations/The Vesper Crusaders\|The Vesper Crusaders]]:** A noble order of paladins who prioritize the well-being of the people and the kingdom, now facing the challenge of maintaining order in a post-war society.
 
 ### Current Situation
 
-Sansi is a kingdom in a state of recovery and transition. The scars of the civil war are still fresh, and the presence of [[Guan Dao\|Guan Dao]]'s orcish forces in [[Sencia\|Sencia]] has created new challenges and opportunities. The kingdom's future is uncertain, but the resilience of its people and the leadership of [[About the world/People/Catalino I, King of Sansi\|King Catalino I]] offer hope for a brighter tomorrow. The kingdom must now navigate the complex political landscape, rebuild its infrastructure, and heal the wounds of war while maintaining its unique cultural identity and economic stability.
+Sansi is a kingdom in a state of recovery and transition. The scars of the civil war are still fresh, and the presence of [[About the world/People/Guan Dao\|Guan Dao]]'s orcish forces in [[Sencia\|Sencia]] has created new challenges and opportunities. The kingdom's future is uncertain, but the resilience of its people and the leadership of [[About the world/People/Catalino I, King of Sansi\|King Catalino I]] offer hope for a brighter tomorrow. The kingdom must now navigate the complex political landscape, rebuild its infrastructure, and heal the wounds of war while maintaining its unique cultural identity and economic stability.
