@@ -4,18 +4,18 @@
 
 The Vesper Crusaders are an order of paladins in the continent of Tinnuith sworn to uphold balance and order in the world. 
 
-The Custodian created them with the sacred oath to preserve natural order and the well-being of all inhabitants of the continent, so they have existed since the beginning of times. 
+[[The Custodian\|The Custodian]] created them with the sacred oath to preserve natural order and the well-being of all inhabitants of the continent, so they have existed since the beginning of times. 
 
 Each knight is bound by a sacred oath, represented by a colour that evokes the aurora, the sunset only they're meant to see when the gods turn the lights off. 
 
 The oaths are sworn to protect the following:
-- **Nature:** The flora of Tinnuith: From the towering trees of the ancient Eldengrothian forests to the delicate sentient wildflowers that bloom in the pastures of Votar Tok.
+- **Nature:** The flora of Tinnuith: From the towering trees of the ancient Eldengrothian forests to the delicate sentient wildflowers that bloom in the pastures of [[Votar Tok\|Votar Tok]].
 - **Night:** Rest, the stillness that brings rest and renewal, and the moons with their dance across the velvet sky.
 - **Animals:** The fauna that sustains the balance of the natural world.
 - **Exchange:** Cooperation between diverse cultures, ensuring that the flow of knowledge, commerce, and diplomacy enriches all.
 - **People:** The cultures of the world, the rights and freedoms of every individual.
 
-Although presumed to have lived for millennia, these elven knights have always been sworn to protect all individuals, regardless of their origins. 
+Presumed to have lived for millennia, these elven knights have always been sworn to protect all individuals, regardless of their origins. 
 
 The oath leaders, described in the following list, are not solitary figures. They often take multiple knights under their wing.
 
@@ -35,9 +35,9 @@ The oath leaders, described in the following list, are not solitary figures. The
 	* Her ability to play any known instrument and delectate people with their favourite tunes has often won her entries behind doors that would be closed to most mortals. 
 	* Gold is her accent, a representation of the abundance she is sworn to protect.
   
-* **Siniy -** Short and scrawny, it would be easy to believe that Siniy belonged to an order of scholars rather than one of knights. Behind the body of a wizard hides the resilience of an athlete, and Siniy has frequently proven to the rest of the team that he's the one who can endure the longest in any physical challenge. 
-	* His armour has blue accents to symbolise the wisdom of the people he's sworn to protect. 
-	* As his duty to understand and protect what creates difference and similarity, he is often found reading all kinds of manuscripts and writing compendiums and notes for those who might come behind him and wonder about the gaps that history might have left. His quill may have penned this very entry, never to offer anything but the truth. 
+* **Siniy -** Short and scrawny, it would be easy to believe that Siniy belonged to an order of scholars rather than one of knights. Behind the body of a wizard hides the resilience of an athlete, and Siniy has frequently proven to the rest of the team that they're the one who can endure the longest in any physical challenge. 
+	* Their armour has blue accents to symbolise the wisdom of the people they've sworn to protect. 
+	* As their duty to understand and protect what creates difference and similarity, they are often found reading all kinds of manuscripts and writing compendiums and notes for those who might come behind them, and wonder about the gaps that history might have left. Their quill may have penned this very entry, never to offer anything but the truth. 
 
 Some of their most renowned feats include:
 * They orchestrated the communion of peoples during the Great Wars, organising the initial resistance against the human colonisers, and then helped broker peace between all the different players of the war against ~~REDACTED~~ a quick onset of chaos that drove all dragons mad and would have escalated to the end of all things.

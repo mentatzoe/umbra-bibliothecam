@@ -36,28 +36,31 @@ Conflicts and challenges come and go, but a question still stands unanswered: *
 
 | File                                                                                                                                                                       | Last Modified |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[About the world/Organisations/The Vesper Crusaders\|The Vesper Crusaders]]                                                                                            | 11.05.2025    |
+| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                                                            | 09.05.2025    |
+| [[About the world/Organisations/The Cause\|The Cause]]                                                                                                                  | 09.05.2025    |
+| [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]                                                                                                              | 09.05.2025    |
+| [[About the world/Higher powers/The Overseers\|The Overseers]]                                                                                                          | 09.05.2025    |
+| [[About the world/People/Dietrich von Kunner\|Dietrich von Kunner]]                                                                                                     | 09.05.2025    |
+| [[About the world/People/Dominik Stoch\|Dominik Stoch]]                                                                                                                 | 09.05.2025    |
+| [[About the world/People/Lady Demian\|Lady Demian]]                                                                                                                     | 09.05.2025    |
+| [[About the world/People/Guan Dao\|Guan Dao]]                                                                                                                           | 09.05.2025    |
 | [[About the world/People/Cyran Leowenis\|Cyran Leowenis]]                                                                                                               | 09.05.2025    |
+| [[About the world/People/Calliope Vanhoutte\|Calliope Vanhoutte]]                                                                                                       | 09.05.2025    |
 | [[About the world/Organisations/The Cheese Company\|The Cheese Company]]                                                                                                | 09.05.2025    |
 | [[About the world/People/Nakneso Alsune\|Nakneso Alsune]]                                                                                                               | 09.05.2025    |
-| [[About the world/People/Dominic Stoch\|Dominic Stoch]]                                                                                                                 | 09.05.2025    |
-| [[About the world/People/Calliope Vanhoutte\|Calliope Vanhoutte]]                                                                                                       | 09.05.2025    |
-| [[About the world/People/Guan Dao\|Guan Dao]]                                                                                                                           | 09.05.2025    |
 | [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]                                                                             | 07.05.2025    |
 | [[About the world/Lore/Appointment Speech of the Princess of the Burning Flame, Vanera Demian\|Appointment Speech of the Princess of the Burning Flame, Vanera Demian]] | 07.05.2025    |
 | [[About the world/People/Primus Vindicator Lemons\|Primus Vindicator Lemons]]                                                                                           | 07.05.2025    |
 | [[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]]                                                                                      | 05.05.2025    |
 | [[About the world/People/Leah Orcisia Malek\|Leah Orcisia Malek]]                                                                                                       | 05.05.2025    |
 | [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]]                                                                                                       | 05.05.2025    |
-| [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]                                                                                                              | 25.04.2025    |
-| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                                                            | 25.04.2025    |
 | [[About the world/Locations/The Sigjund Complex\|The Sigjund Complex]]                                                                                                  | 25.04.2025    |
 | [[About the world/Nations/Almarrosa\|Almarrosa]]                                                                                                                        | 25.04.2025    |
 | [[About the world/Nations/Confederation of Votar Tok\|Confederation of Votar Tok]]                                                                                      | 25.04.2025    |
 | [[About the world/Nations/Kingdom of Criosia\|Kingdom of Criosia]]                                                                                                      | 25.04.2025    |
 | [[About the world/Nations/Kingdom of Tevara\|Kingdom of Tevara]]                                                                                                        | 25.04.2025    |
-| [[About the world/Organisations/The Cause\|The Cause]]                                                                                                                  | 25.04.2025    |
 | [[About the world/Organisations/Las Astas del Rey\|Las Astas del Rey]]                                                                                                  | 25.04.2025    |
-| [[About the world/People/Dietrich von Kunner\|Dietrich von Kunner]]                                                                                                     | 25.04.2025    |
 | [[About the world/People/Lauren Evers\|Lauren Evers]]                                                                                                                   | 25.04.2025    |
 | [[About the world/People/Lord Famax\|Lord Famax]]                                                                                                                       | 25.04.2025    |
 | [[About the world/People/MUD - Students\|MUD - Students]]                                                                                                               | 25.04.2025    |
@@ -66,10 +69,8 @@ Conflicts and challenges come and go, but a question still stands unanswered: *
 | [[About the world/People/Vivianne III, Queen of Criosia\|Vivianne III, Queen of Criosia]]                                                                               | 25.04.2025    |
 | [[About the world/People/Void (Pelaios)\|Void (Pelaios)]]                                                                                                               | 25.04.2025    |
 | [[About the world/Lore/Llerathian Scriptures\|Llerathian Scriptures]]                                                                                                   | 21.04.2025    |
-| [[About the world/Higher powers/The Overseers\|The Overseers]]                                                                                                          | 17.02.2025    |
 | [[About the world/Nations/Osterrend\|Osterrend]]                                                                                                                        | 17.02.2025    |
 | [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]                                            | 16.02.2025    |
-| [[About the world/Organisations/The Vesper Crusaders\|The Vesper Crusaders]]                                                                                            | 20.09.2024    |
 | [[About the world/Nations/Kingdom of Sansi\|Kingdom of Sansi]]                                                                                                          | 18.09.2024    |
 | [[About the world/People/Catalino I, King of Sansi\|Catalino I, King of Sansi]]                                                                                         | 18.09.2024    |
 | [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]                                                                                                        | 18.09.2024    |

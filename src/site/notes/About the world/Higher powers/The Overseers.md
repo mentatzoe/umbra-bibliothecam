@@ -8,7 +8,7 @@ They represent the ultimate caretakers of the world, ensuring the balance of lif
 
 Each Overseer has a particular domain as part of their portfolio with the exception of The Custodian, who is also in charge of coordinating the entire group. This domain is then manifested in multiple spheres of influence that may be shared between multiple Overseers.
 
-- #### [[The Custodian, Keeper of Balance\|The Custodian, Keeper of Balance]]
+- #### [[About the world/Higher powers/The Custodian, Keeper of Balance\|The Custodian, Keeper of Balance]]
 	- **Domain:** Light
 	- **Mission:** To illuminate the path of progress and understanding, guiding the world and its inhabitants towards a brighter future while safeguarding the delicate balance of creation.
 	- **Spheres of Influence**:
@@ -18,7 +18,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Arcana**: Oversees the balance of magical energies, ensuring that magic is used responsibly.
 		- **Navigation/Stars**: Guides the way, both literally (navigation) and metaphorically, ensuring that paths remain clear for progress.
 		
-- #### [[Lythara, Weaver of Infinite Patterns\|Lythara, Weaver of Infinite Patterns]]
+- #### [[About the world/Higher powers/Lythara, Weaver of Infinite Patterns\|Lythara, Weaver of Infinite Patterns]]
 	- **Domain:** Life
 	- **Mission:** To weave the infinite patterns of life, guiding the threads of birth, growth, and evolution.
 	- **Spheres of Influence:**

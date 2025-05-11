@@ -19,7 +19,7 @@
 
 #### Overview
 
-**The Cheese Company** is a well-known, if somewhat notorious, adventuring company operating primarily within the [[About the world/Nations/Kingdom of Sansi\|Kingdom of Sansi]] and adjacent territories. Founded in 55 UL by [[About the world/People/Calliope Vanhoutte\|Calliope Vanhoutte]], [[About the world/People/Guan Dao\|Guan Dao]], and [[Dominik Stoch\|Dominik Stoch]], the group quickly gained a reputation for tackling dangerous contracts, getting entangled in significant political events, and surviving perilous encounters through a combination of skill, luck, and often dramatic flair. Their composition has fluctuated significantly over the years, but they are characterized by a pragmatic approach, adaptable methods, and the detailed chronicles kept by founding member Calliope. As of 59 UL, the company continues its adventures, currently focused on investigating ancient artifacts and confronting emerging threats.
+**The Cheese Company** is a well-known, if somewhat notorious, adventuring company operating primarily within the [[About the world/Nations/Kingdom of Sansi\|Kingdom of Sansi]] and adjacent territories. Founded in 55 UL by [[About the world/People/Calliope Vanhoutte\|Calliope Vanhoutte]], [[About the world/People/Guan Dao\|Guan Dao]], and [[About the world/People/Dominik Stoch\|Dominik Stoch]], the group quickly gained a reputation for tackling dangerous contracts, getting entangled in significant political events, and surviving perilous encounters through a combination of skill, luck, and often dramatic flair. Their composition has fluctuated significantly over the years, but they are characterized by a pragmatic approach, adaptable methods, and the detailed chronicles kept by founding member Calliope. As of 59 UL, the company continues its adventures, currently focused on investigating ancient artifacts and confronting emerging threats.
 
 ---
 
@@ -38,7 +38,7 @@ Founded in **55 UL** by [[Calliope\|Calliope]], [[About the world/People/Guan Da
 
 From **56 UL to 58 UL**, the Company was heavily involved in the **[[About the world/History/Sansi Civil War\|Sansi Civil War]]**, fighting alongside [[About the world/People/Guan Dao\|Guan Dao]]'s Orc forces in support of [[About the world/People/Catalino I, King of Sansi\|King Catalino I]] against the Barbero faction. Their actions were instrumental in the King's victory.
 
-Following the war (c. **58 UL**), the Company's structure shifted significantly. [[About the world/People/Guan Dao\|Guan Dao]] established himself in [[Sencia\|Sencia]], becoming estranged from the group. [[Dominik Stoch\|Dominik Stoch]] departed on a personal quest after confronting the betrayal of his master, [[Phay Mey (The Mongrel)\|Phay Mey]], during the investigation of the Mongrel's Manor. [[Nak\|Nak]] had also departed sometime prior.
+Following the war (c. **58 UL**), the Company's structure shifted significantly. [[About the world/People/Guan Dao\|Guan Dao]] established himself in [[Sencia\|Sencia]], becoming estranged from the group. [[About the world/People/Dominik Stoch\|Dominik Stoch]] departed on a personal quest after confronting the betrayal of his master, [[Phay Mey (The Mongrel)\|Phay Mey]], during the investigation of the Mongrel's Manor. [[Nak\|Nak]] had also departed sometime prior.
 
 The remaining core members, including [[Calliope\|Calliope]], [[Peace\|Peace]], [[Einar\|Einar]], and [[Alfie\|Alfie]], continued their adventures, focusing on quests like the **Lycanthropic Tiaras** (c. 58 UL onwards).
 
@@ -59,7 +59,7 @@ As of **59 UL**, the Company was involved in investigating the dangerous experim
 *   **Headquarters:** Primarily mobile, utilizing inns, temporary camps, and occasionally [[Calliope\|Calliope]]'s mansion in [[Sansi\|Sansi]] as a base, particularly after the Civil War.
 *   **Leader(s):** Operates without a single designated leader, seemingly relying on collaborative decision-making, though individuals may take initiative based on the situation.
 *   **Prominent Members (as of 59 UL):** [[About the world/People/Calliope Vanhoutte\|Calliope Vanhoutte]], [[Peace\|Peace]], [[Einar\|Einar]], [[Alfie\|Alfie]].
-*   **Former Members:** [[About the world/People/Guan Dao\|Guan Dao]], [[Dominik Stoch\|Dominik Stoch]], [[Nak\|Nak]], [[Laurentius\|Laurentius]] (deceased).
+*   **Former Members:** [[About the world/People/Guan Dao\|Guan Dao]], [[About the world/People/Dominik Stoch\|Dominik Stoch]], [[Nak\|Nak]], [[Laurentius\|Laurentius]] (deceased).
 *   **Associates:** Various individuals have joined for specific missions or periods, including [[About the world/People/Camelia\|Camelia]], [[Shi Yijun\|Shi Yijun]], [[Millie\|Millie]], [[Killian\|Killian]], [[Elro\|Elro]], [[Grunt\|Grunt]].
 
 ---

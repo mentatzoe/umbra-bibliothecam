@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/about-the-world/people/guan-dao/","tags":["character","former_cheese_company","half-orc","warfa","sansi"]}
 ---
 
+> [!warning]
+> This article is a WIP and may contain inaccurate information.
 
 > [!infobox|right]
 > # Guan Dao
@@ -36,11 +38,17 @@ During the [[About the world/History/Sansi Civil War\|Sansi Civil War]] (c. 56-5
 
 #### Personality
 
-Guan Dao is characterized by his **pragmatism** and **directness**. Hardened by his upbringing in the buffer zones and refined by Tsao Meng's teachings, he values tactics, strength, and efficiency. While initially loyal to his companions in The Cheese Company, his focus shifted after the Sansi Civil War towards **consolidating his power** and leadership over his Orc forces in Sencia. His journals reveal a **dry, sometimes sarcastic humor**, often underscoring the absurdity of the situations he encounters. He has a notable **social awkwardness**, feeling uncomfortable in large crowds or being surrounded by people. Despite this, he can present himself professionally when necessary. He seems to prioritize action and strategic execution over lengthy discussions. His later-acquired ability to read and write suggests a dedication to personal improvement and knowledge. Following the Civil War, he reportedly refused to see his former Cheese Company companions, indicating a potential shift in alliances or priorities.
+Guan Dao is characterized by his pragmatism and directness. Hardened by his upbringing in the buffer zones and refined by Tsao Meng's teachings, he values tactics, strength, and efficiency. 
+
+While initially loyal to his companions in The Cheese Company, his focus shifted after the Sansi Civil War towards consolidating his power and leadership over his Orc forces in Sencia. 
+
+His journals reveal a dry, sometimes sarcastic humor, often underscoring the absurdity of the situations he encounters. He has a notable social awkwardnes, feeling uncomfortable in large crowds or being surrounded by people. Despite this, he can present himself professionally when necessary. He seems to prioritize action and strategic execution over lengthy discussions. 
+
+His later-acquired ability to read and write suggests a dedication to personal improvement and knowledge. Following the Civil War, he reportedly refused to see his former Cheese Company companions, indicating a potential shift in alliances or priorities.
 
 #### Appearance
 
-Guan Dao is a **Half-Orc** with **pale green skin**, **black eyes**, and **black hair**. He is **tall** (1.95m) and **heavily built** (96kg). While described as a "large Orc" in some accounts, the term "Half-Orc" is also used, suggesting either prominent Orcish features or a mix that makes him appear imposing.
+Guan Dao is a Half-Orc with pale green skin, black eyes, and black hair. He is tall (1.95m) and heavily built (96kg) from his extensive years of training. While described as a "large Orc" in some accounts, the term "Half-Orc" is also used, suggesting either prominent Orcish features or a mix that makes him appear imposing.
 
 #### Abilities and Skills
 

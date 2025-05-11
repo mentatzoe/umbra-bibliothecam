@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about-the-world/organisations/the-cause/"}
 ---
 
-**The Cause** is a clandestine revolutionary organization operating within the **NUL**.  Posing as freedom fighters against the **Overseers**, their methods and alliances reveal a morally ambiguous agenda focused on disrupting the established world order.
+**The Cause** is a clandestine revolutionary organization operating within the **NUL**.  Posing as freedom fighters against the **[[Overseers\|Overseers]]**, their methods and alliances reveal a morally ambiguous agenda focused on disrupting the established world order.
 
 ## Overview
 
@@ -30,7 +30,7 @@
 
 - **Radicals:** Advocate for *total severance* from the Overseers, even at the cost of mass destruction.
 - **Pragmatists:** Seek to use **Knimick's power** for controlled severance, minimizing collateral damage.
-- **Unwitting Allies:**  Some NUL officials unknowingly support the Cause indirectly.
+- **Unwitting Allies:** Some NUL officials unknowingly support the Cause indirectly.
 
 ## Facilities & Influence
 
@@ -43,7 +43,7 @@
 - [[About the world/Locations/The Sigjund Complex\|The Sigjund Complex]]
 - [[About the world/Higher powers/The Overseers\|The Overseers]]
 - [[About the world/Higher powers/Knimick, The Unseen Hand\|Knimick, The Unseen Hand]]
-- [[Lythara, Weaver of Infinite Patterns\|Lythara, Weaver of Infinite Patterns]]
+- [[About the world/Higher powers/Lythara, Weaver of Infinite Patterns\|Lythara, Weaver of Infinite Patterns]]
 - [[NUL\|NUL]]
 
 **Tags:** #faction #secretsociety #politics #magic #revolution #antagonist #organization

@@ -85,12 +85,12 @@ The bard tells her that the song comes from an ancient text, and that she had al
 
 Lux cannot shake the idea that this story eerily resembles her life, and that the six are her and her companions. Although the rest of the party believed that she was suffering from a spell of self-importance, they agree to request favour from the Caliph of Air to recover the cache the bard was speaking about.
 
-After {{INSERT OBSTACLE}}, they finally find the cache, where Lux can read the full text. She is shaken, as it doesn't only seem to perfectly describe her upbringing, but also continues to narrate future events that, if true, would bring them incredible pain. She isn't sure of how they are going to happen, but she now knows that her party will betray her (and the entirety of Tinnuith), and that magic cannot be trusted.
+After a series of ordeals that have failed to make the records, they found the cache, where Lux managed to read the full text. She is shaken, as it doesn't only seem to perfectly describe her upbringing, but also continues to narrate future events that, if true, would bring them incredible pain. She isn't sure of how they are going to happen, but she now knows that her party will betray her (and the entirety of Tinnuith), and that magic cannot be trusted.
 
-The cache also contained a staff of power, named the Dreamweaver, which Liorne took. 
+The cache also contained a staff of power, named the [[Dreamweaver\|Dreamweaver]], which Liorne took. 
 
 ### Before the Calamity
-Shortly after retrieving the cache, the group decided to return to the material plane to try and pay apply all the learnings they had in their extraplanar trips. 
+Shortly after retrieving the cache, the group decided to return to the material plane to try and pay apply all the learnings they had in their extra-planar trips. 
 
 They decided to split for a while, and grow individually, as each one had a particular interest they wanted to pursue:
 * Lux went to the northern lands, trying to help bring commercial routes between the different kingdoms, and help the (monasteries? Giants? Tribes of the coast?)
@@ -102,7 +102,7 @@ They started to get involved in commercial and political agreements between some
 Immediately after this unknown release of energy:
 * Demons started pouring into the northern lands
 * Clerical magic stopped working - briefly.
-* Most of the elves started acting erratically
+* Most of the Eldengrothian elves started acting erratically
 * The Gods stopped responding
 
 ### Ascension to Godhood

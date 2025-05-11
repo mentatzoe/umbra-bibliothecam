@@ -2,6 +2,8 @@
 {"dg-publish":true,"permalink":"/about-the-world/people/cyran-leowenis/","tags":["character","npc","llerathian_empire","beehive","elf"]}
 ---
 
+> [!warning]
+> This article is a WIP and may contain inaccurate information.
 
 > [!infobox|right]
 > # Cyran Leowenis
@@ -11,7 +13,7 @@
 > |                       |                                                                              |
 > | :-------------------- | :--------------------------------------------------------------------------- |
 > | **Alias(es)**         | "The Druid" (in Osterrend)                                                   |
-> | **Title(s)**          | Agent of the Beehive (Internal), Druid (Public Persona)                      |
+> | **Title(s)**          | Agent of the Beehive (Internal), Ylma Thalore Druid (Public Persona)                      |
 > | **Species**           | Elf (High Elf)                                                               |
 > | **Affiliation(s)**    | [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] (Beehive - Intelligence Branch), [[House Godric\|House Godric]]        |
 > | **Age**               | Unspecified (Adult Elf)                                                      |
