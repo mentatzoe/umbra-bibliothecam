@@ -51,7 +51,7 @@ Across both identities, Leah is fundamentally resilient, adaptable, and fiercely
 
 *   **Orcisia Family:** Sole known heir.
 *   **[[About the world/Nations/Llerathian Empire\|Llerathian Empire]]:** Formerly a Volunteer, status potentially elevated to Initiate after Spring Games/Rescue Mission before disappearance.
-*   **Former Training Squad Members:** Shared history with [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]], [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]], and [[Primus Lemons\|Primus Lemons]].
+*   **Former Training Squad Members:** Shared history with [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]], [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]], and [[About the world/People/Primus Vindicator Lemons\|Primus Lemons]].
 
 ---
 

@@ -51,7 +51,7 @@ While fiercely loyal to Lux and the Empire, this manifests most directly in his 
 *   **[[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]]:** Leads the Aegis Branch, the protective arm serving the Inquisitors.
 *   **Primus Inquisitor [[Theren Liadon\|Theren Liadon]]:** Serves as his designated Shield, bound by formal HEE protocols and a profound personal bond.
 *   **[[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]:** The ultimate object of his Hive-instilled devotion and loyalty.
-*   **Former Training Squad Members:** Shared history with [[Primus Lemons\|Primus Lemons]] (formerly 2841) and Leah Orcisia Malek (formerly Gael).
+*   **Former Training Squad Members:** Shared history with [[About the world/People/Primus Vindicator Lemons\|Primus Lemons]] (formerly 2841) and Leah Orcisia Malek (formerly Gael).
 
 ---
 

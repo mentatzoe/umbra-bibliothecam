@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/about-the-world/higher-powers/lux-aeterna/"}
 ---
 
-# THIS NOTE IS A WIP 
+
+> [!warning] WIP 
+> This entry is a work in progress and may contain incorrect information
 
 **Name (and aliases)**: Lux Aeterna, Lucis Aeternitas, REDACTED
 **Title**: The Goddess, Supreme Goddess of Light and Life, Mother of Llerath, Life-giver, Goddess of Light
@@ -38,7 +40,7 @@ Growing confident in her abilities, and tired of the oppressive life imposed by 
 
 She survived by selling her services as a healer, which were outstanding even on her early days, and this soon helped her make connections with other adventuring spirits. 
 
-Her first ally was a wood elf by the name of [[Nessa Anarion\|Nessa Anarion]], a druid who said to be running from a family obligation she didn't want to follow. Lux sympathised with trying to escape the oppression of family (either biological or adoptive), and their adventures began in the Eldengrothian region of Saya-Besaja when she helped her escape.
+Her first ally was a wood elf by the name of [[About the world/People/Nessa Anarion\|Nessa Anarion]], a druid who said to be running from a family obligation she didn't want to follow. Lux sympathised with trying to escape the oppression of family (either biological or adoptive), and their adventures began in the Eldengrothian region of Saya-Besaja when she helped her escape.
 
 In this escape, they met the Knight [[Ladroit Lagauche\|Ladroit Lagauche]], a paladin of great heart, good intentions, but sometimes lacking in wit. His unwavering pursuit of the righteous good impressed Lux in ways that would echo throughout her life, despite her increasing frustration towards what she believed to be an inherently masculine trait of stubbornness.
 
@@ -46,10 +48,10 @@ As a mercenary party that compromised on helping those in need for a competitive
 
 They set base there for a few months, where they met the three members that ended completing their party: 
 * A young human wizard focused on understanding the inner workings of the cosmology of their world, [[Liorne Imaeth\|Liorne Imaeth]].
-* A dwarf pilgrim who had taken on the study of the different martial arts and meditation techniques of the surface, [[Phay Mae\|Phay Mae]].
+* A dwarf pilgrim who had taken on the study of the different martial arts and meditation techniques of the surface, [[Phay Mae\|Phay Mey]].
 * A halfling who self-described with the very noble intent of redistributing the riches wrongfully taken by the human colonisers to those who truly needed them (namely, himself), [[Daimon Garmez\|Daimon Garmez]].
 
-The following years took them on hundreds of adventures: They crossed paths with the [[About the world/Organisations/The Vesper Crusaders\|Vesper Crusaders]], ventured inside of the deadly jungles of [[Votar Tok\|Votar Tok]] to help both [[Warfas\|Warfas]] and dwarven batallions, fought aberrations that terrorised the people of [[Kylthen\|Kylthen]], caused an uprising within the people of [[Maraga\|Maraga]] which left it divided into five independent provinces, they sailed the waters to the lands of [[About the world/Nations/Almarrosa\|Almarrosa]] and the elemental palaces... but their true story began when they left the material plane to travel the outer planes by commission of [[Sha'ir Liadon\|Sha'ir Liadon]].
+The following years took them on hundreds of adventures: They crossed paths with the [[About the world/Organisations/The Vesper Crusaders\|Vesper Crusaders]], ventured inside of the deadly jungles of [[About the world/Nations/Confederation of Votar Tok\|Votar Tok]] to help both [[Warfas\|Warfas]] and dwarven batallions, fought aberrations that terrorised the people of [[About the world/Nations/Principate of Kylthen\|Kylthen]], caused an uprising within the people of [[Maraga\|Maraga]] which left it divided into five independent provinces, they sailed the waters to the lands of [[About the world/Nations/Almarrosa\|Almarrosa]] and the elemental palaces... but their true story began when they left the material plane to travel the outer planes by commission of [[Theren Liadon Sr. \|Sha'ir Liadon]].
 
 ### The Origins Prophecy
 It was in one of the trips to the [[Elemental Plane of Air\|Elemental Plane of Air]], that in the city of [[Zephyr\|Zephyr]] they met a bard whose song would capture Lux’s attention:

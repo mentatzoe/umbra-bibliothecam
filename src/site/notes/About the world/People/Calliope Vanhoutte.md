@@ -83,7 +83,7 @@ Calliope's documented history involves a rapid succession of challenging adventu
     *   Hunted [[Zhang Fao\|Zhang Fao]]'s **Warfa near Maraga**.
 *   **56 UL (Conflict & Investigation):**
     *   Participated in the **[[Cerdanza\|Cerdanza]] festival** in Simpa.
-    *   Became entangled in the **[[Famax\|Famax]] Encounter**, deceived by [[Benin Hood Miller\|Benin Hood Miller]] into delivering gunpowder, witnessing [[Laurentius\|Laurentius]]'s sacrifice.
+    *   Became entangled in the **[[Famax\|Famax]] Encounter**, deceived by [[About the world/People/Benin Hood Miller\|Benin Hood Miller]] into delivering gunpowder, witnessing [[Laurentius\|Laurentius]]'s sacrifice.
     *   Investigated the **Haunting of [[Rocamayor\|Rocamayor]]**, uncovering the link to the aberration [[Eileithiya\|Eileithiya]] and collecting the **[[Eileithiya's papers\|Eileithiya's papers]]** detailing its dark origins connected to [[Khan Hasseki\|Sultan Hasseki]]'s experiments.
     *   **[[The Tale of Calliope the Brave\|The Tale of Calliope the Brave]]:** Suffered **death** during an infiltration attempt near [[Sencia\|Sencia]]'s mines but was rescued and revived by allies ([[Mathis\|Mathis]] and [[Dominic\|Dominic]]).
     *   Accepted a **mission from [[Toan\|Toan]]** (NUL agent) to investigate an island rebellion, requiring infiltration via zeppelin.
@@ -97,7 +97,7 @@ Calliope's documented history involves a rapid succession of challenging adventu
 
 #### Allies and Enemies
 
-*   **Allies:** Current and former members of [[About the world/Organisations/The Cheese Company\|The Cheese Company]], [[About the world/People/Catalino I, King of Sansi\|King Catalino I]], [[Benin Hood Miller\|Benin Hood Miller]], [[Mathis\|Mathis]], [[Kemit Enoch\|Kemit Enoch]], [[Olea\|Olea]].
+*   **Allies:** Current and former members of [[About the world/Organisations/The Cheese Company\|The Cheese Company]], [[About the world/People/Catalino I, King of Sansi\|King Catalino I]], [[About the world/People/Benin Hood Miller\|Benin Hood Miller]], [[Mathis\|Mathis]], [[Kemit Enoch\|Kemit Enoch]], [[Olea\|Olea]].
 *   **Notable Adversaries:**
     *   Barbero Faction: Opponents during the Sansi Civil War.
     *   The Burning Fist: Soldiers encountered at Saunola Path.

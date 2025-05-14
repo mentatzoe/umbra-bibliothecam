@@ -97,6 +97,6 @@ Outside Llerath, particularly within the [[NUL\|NUL]], Her Enlightened Enquiry i
 *   [[Keith\|Keith]] (Current Primus Aegis, Archetypal Shield)
 *   [[Bel'Dath\|Bel'Dath]] (Former Inquisitor Mentor, Deceased)
 *   [[Inquisitor Astraea\|Inquisitor Astraea]] (Notorious Inquisitor from the Freedom Wars Era)
-*   [[Primus Lemons\|Primus Lemons]] (Head of Defense, former Squadmate)
+*   [[About the world/People/Primus Vindicator Lemons\|Primus Lemons]] (Head of Defense, former Squadmate)
 
 ---

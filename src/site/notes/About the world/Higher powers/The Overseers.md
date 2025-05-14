@@ -8,7 +8,7 @@ They represent the ultimate caretakers of the world, ensuring the balance of lif
 
 Each Overseer has a particular domain as part of their portfolio with the exception of The Custodian, who is also in charge of coordinating the entire group. This domain is then manifested in multiple spheres of influence that may be shared between multiple Overseers.
 
-- #### [[About the world/Higher powers/The Custodian, Keeper of Balance\|The Custodian, Keeper of Balance]]
+- #### The Custodian, Keeper of Balance
 	- **Domain:** Light
 	- **Mission:** To illuminate the path of progress and understanding, guiding the world and its inhabitants towards a brighter future while safeguarding the delicate balance of creation.
 	- **Spheres of Influence**:
@@ -18,7 +18,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Arcana**: Oversees the balance of magical energies, ensuring that magic is used responsibly.
 		- **Navigation/Stars**: Guides the way, both literally (navigation) and metaphorically, ensuring that paths remain clear for progress.
 		
-- #### [[About the world/Higher powers/Lythara, Weaver of Infinite Patterns\|Lythara, Weaver of Infinite Patterns]]
+- #### Lythara, Weaver of Infinite Patterns
 	- **Domain:** Life
 	- **Mission:** To weave the infinite patterns of life, guiding the threads of birth, growth, and evolution.
 	- **Spheres of Influence:**
@@ -30,7 +30,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 	    - **Seasons**: Lythara ensures that the natural rhythms of growth and renewal follow a set cycle, tied to the seasons.
 	    - **Earth**: Oversees the cycles of life tied to the natural world and the physical land.
 
-- #### [[Reziel, Commander of the Unbreakable Watch\|Reziel, Commander of the Unbreakable Watch]]
+- #### Reziel, Commander of the Unbreakable Watch
 	- **Domain:** War
 	- **Mission:** Safeguard Tinnuith from threats, both internal and external, acting as the ultimate enforcer of protection and resilience.
 	- **Spheres of Influence**:
@@ -40,7 +40,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Victory**: Reziel commands victory in battles, ensuring that triumphs are won through resilience and strategy.
 		- **Annihilation/Extinction**: As a war god, Reziel can bring about the extinction of those who threaten the stability of the world.
 
-- #### [[Stravion, Conductor of Boundless Growth\|Stravion, Conductor of Boundless Growth]]
+- #### Stravion, Conductor of Boundless Growth
 	- **Domain:** Tempest
 	- **Mission:** To govern the forces of change and growth, ensuring the world remains dynamic and ever-evolving.
 	- **Spheres of Influence**:
@@ -53,7 +53,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Temperature**: Controls both heat and cold as dynamic elements of growth.
 		- **Navigation/Stars**: Represents the stars as navigational tools for those seeking to explore and grow.
 
-- #### [[Dalgos, All-Seeing Sage\|Dalgos, All-Seeing Sage]]
+- #### Dalgos, All-Seeing Sage
 	- **Domain:** Knowledge
 	- **Mission:** To gather and preserve knowledge, ensuring that wisdom and understanding are accessible to all who seek it.
 	- **Spheres of Influence**:
@@ -64,7 +64,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Ignorance/Stupidity**: Dalgos seeks to counter ignorance, bringing knowledge to all corners of the world.
 		- **Forge/Craft**: Oversees the creation of tools and objects that embody knowledge, particularly in magical craftsmanship.
 
-- #### [[Tchari, Healer of the Cycle\|Tchari, Healer of the Cycle]]
+- #### Tchari, Healer of the Cycle
 	- **Domain:** Nature
 	- **Mission:** To heal the wounds of the world and guide the natural cycles of growth, decay, and renewal.
 	- **Spheres of Influence**:
@@ -75,7 +75,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Monsters**: Tchari is the guardian of creatures that roam the wilds, from beasts to monsters.
 		- **Fish/Sea Life**: Governs the natural order of sea life and the interconnectedness of marine ecosystems.
 
-- #### [[Derevya, The Harvester of the Lost\|Derevya, The Harvester of the Lost]]
+- #### Derevya, The Harvester of the Lost
 	- **Domain:** Death
 	- **Mission:** To guide souls to the afterlife and ensure the natural cycle of life and death remains unbroken.
 	- **Spheres of Influence**:
@@ -86,7 +86,7 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Decay/Entropy**: Oversees the breakdown of matter after death, allowing new life to emerge.
 		- **Annihilation/Extinction**: Governs the extinction of species or groups when their time comes.
 
-- #### [[About the world/Higher powers/Knimick, The Unseen Hand\|Knimick, The Unseen Hand]]
+- #### [[About the world/Higher powers/Knimick, The Unseen Hand\|Knimick]], The Unseen Hand
 	- **Domain:** Trickery
 	- **Mission:** To test the boundaries of reality and challenge the perceptions of mortals, ensuring they remain vigilant, resilient, and adaptable.
 	- **Spheres of Influence**:
