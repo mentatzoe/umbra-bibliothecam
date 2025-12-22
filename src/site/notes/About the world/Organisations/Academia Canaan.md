@@ -2,10 +2,10 @@
 {"dg-publish":true,"permalink":"/about-the-world/organisations/academia-canaan/"}
 ---
 
-# Academia Canaan
 
-| Ubicación  | Cercanías de Caleborna, Reino de Sansi                                       |
+|            |                                                                              |
 | ---------- | ---------------------------------------------------------------------------- |
+| Ubicación  | Cercanías de Caleborna, Reino de Sansi                                       |
 | Afiliación | Independiente, vinculada a los Caballeros de Poniente ([[Vesper Crusaders\|Vesper Crusaders]]) |
 | Lema       | Forjados para el ocaso final                                                 |
 
