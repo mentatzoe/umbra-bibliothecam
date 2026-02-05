@@ -91,25 +91,9 @@ Ciertas tareas de contribución comunitaria, como la limpieza del refectorio tra
 
 Vuestro equipo será evaluado según cinco criterios. No se os pedirá demostrar todos en cada prueba, pero al final de El Preámbulo, deberéis haber demostrado capacidad en los cinco.
 
-### Cohesión
-
-Vuestro equipo funciona como unidad. No es necesario que os apreciéis personalmente, pero sí que seáis capaces de coordinaros, comunicaros y apoyaros cuando la situación lo requiera.
-
-### Competencia
-
-Vuestro equipo demuestra habilidad en al menos dos de las siguientes disciplinas: combate, académica, social o supervivencia. No todos los miembros necesitan destacar en las mismas áreas.
-
-### Criterio
-
-Vuestro equipo toma decisiones razonables bajo presión. No se espera perfección. Se espera capacidad de evaluar situaciones, considerar opciones y actuar con fundamento.
-
-### Carácter
-
-Vuestro equipo demuestra claridad respecto a por qué está aquí. No nos referimos a la respuesta que preparasteis para la solicitud. Nos referimos a la motivación real que os impulsa.
-
-### Contribución
-
-Cada miembro del equipo aporta algo que el grupo no tendría sin esa persona. Si un miembro fuera expulsado y nadie notara la diferencia, ese es un problema que el equipo debe resolver.
+| Cohesión                                                                                                                                                                                       | Competencia                                                                                                                                                                                         | Criterio                                                                                                                                                                          | Carácter                                                                                                                                                                                       | Contribución                                                                                                                                                                                                            |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Vuestro equipo funciona como unidad. <br><br>No es necesario que os apreciéis personalmente, pero sí que seáis capaces de coordinaros, comunicaros y apoyaros cuando la situación lo requiera. | Vuestro equipo demuestra habilidad en al menos dos de las siguientes disciplinas: combate, académica, social o supervivencia. <br><br>No todos los miembros necesitan destacar en las mismas áreas. | Vuestro equipo toma decisiones razonables bajo presión. <br><br>No se espera perfección. Se espera capacidad de evaluar situaciones, considerar opciones y actuar con fundamento. | Vuestro equipo demuestra claridad respecto a por qué está aquí. <br><br>No nos referimos a la respuesta que preparasteis para la solicitud. Nos referimos a la motivación real que os impulsa. | Vuestro equipo proporciona oportunidades a todos sus miembros de hacer contribuciones equivalentes. <br><br>Si un miembro fuera expulsado y nadie notara la diferencia, ese es un problema que el equipo debe resolver. |
 
 ---
 
