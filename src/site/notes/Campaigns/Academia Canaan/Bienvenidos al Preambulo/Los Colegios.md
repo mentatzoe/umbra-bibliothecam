@@ -2,9 +2,6 @@
 {"dg-publish":true,"permalink":"/campaigns/academia-canaan/bienvenidos-al-preambulo/los-colegios/","tags":["academia_canaan","colegios","worldbuilding"]}
 ---
 
-
-# Los Colegios
-
 > [!quote]
 > *«Cinco juramentos. Cinco caminos. Un propósito.»*
 

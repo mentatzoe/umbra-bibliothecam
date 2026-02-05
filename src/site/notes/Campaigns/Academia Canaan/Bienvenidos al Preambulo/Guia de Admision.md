@@ -5,9 +5,7 @@
 > [!quote]
 > *«Todos juntos, o ninguno en absoluto.»*
 
-## Bienvenida
-
-Enhorabuena.
+## Enhorabuena
 
 De entre cientos de candidaturas recibidas este año, habéis sido seleccionados para participar en El Preámbulo, el proceso de admisión a la [[About the world/Organisations/Academia Canaan\|Academia Canaan]]. Vuestra presencia aquí representa el reconocimiento de vuestro potencial: capacidad demostrada, referencias de confianza y la determinación de buscar algo más grande que vosotros mismos.
 
