@@ -11,9 +11,9 @@
 > |                       |                                                                        |
 > | :-------------------- | :--------------------------------------------------------------------- |
 > | **Alias(es)**         | Elle, Lady Demian, The Flaming Spider                                  |
-> | **Title(s)**          | Lady Demian, Member of [[Imaeth\|Imaeth]]'s Council of 7, Leader of [[The Akelarre\|The Akelarre]] |
+> | **Title(s)**          | Lady Demian, Member of [[Imaeth\|Imaeth]]'s Council of 7, Leader of [[About the world/Organisations/The Akelarre\|The Akelarre]] |
 > | **Species**           | Tiefling (Demonic Noble Bloodline)                                      |
-> | **Affiliation(s)**    | [[Imaeth\|Imaeth]]'s Council of 7, [[The Akelarre\|The Akelarre]] (Leader), [[NUL\|NUL]]              |
+> | **Affiliation(s)**    | [[Imaeth\|Imaeth]]'s Council of 7, [[About the world/Organisations/The Akelarre\|The Akelarre]] (Leader), [[NUL\|NUL]]              |
 > | **Age**               | Unspecified (Adult Tiefling)                                           |
 > | **Gender**            | Female                                                                 |
 > | **Status**            | Active (as of 59 UL / 1050 Continental)                                |
@@ -22,7 +22,7 @@
 
 #### Overview
 
-Lady Raphaelle "Elle" Demian is a formidable Tiefling of demonic noble heritage, a key figure within the [[NUL\|NUL]] and a member of [[Imaeth\|Imaeth]]'s influential Council of 7. She is the leader of the powerful criminal organization known as [[The Akelarre\|The Akelarre]]. Scarred by the violent destruction of her people at the Orbital Palace, an event she escaped alongside the young Root Elf [[About the world/People/Angaste\|Angaste]], Elle was taken in by [[Imaeth\|Imaeth]] and rose to prominence through a combination of ruthlessness, strategic acumen, and perhaps a degree of manipulation. Despite a hardened exterior and a proclaimed disdain for combat, she has demonstrated a capacity for protective instincts and possesses unique, potent magical abilities, often manifesting under duress.
+Lady Raphaelle "Elle" Demian is a formidable Tiefling of demonic noble heritage, a key figure within the [[NUL\|NUL]] and a member of [[Imaeth\|Imaeth]]'s influential Council of 7. She is the leader of the powerful criminal organization known as [[About the world/Organisations/The Akelarre\|The Akelarre]]. Scarred by the violent destruction of her people at the Orbital Palace, an event she escaped alongside the young Root Elf [[About the world/People/Angaste\|Angaste]], Elle was taken in by [[Imaeth\|Imaeth]] and rose to prominence through a combination of ruthlessness, strategic acumen, and perhaps a degree of manipulation. Despite a hardened exterior and a proclaimed disdain for combat, she has demonstrated a capacity for protective instincts and possesses unique, potent magical abilities, often manifesting under duress.
 
 ---
 
@@ -30,7 +30,7 @@ Lady Raphaelle "Elle" Demian is a formidable Tiefling of demonic noble heritage,
 
 Elle Demian, originally known as Raphaelle, hails from a demonic noble bloodline associated with the "Orbital Palace," a significant underground settlement of her people. Her early life was one of luxury, albeit within a society she later described with bitterness regarding their adherence to "surfacer laws" and a naive trust in "the Pact" for protection. This life was shattered by a catastrophic attack, seemingly perpetrated by Llerathian templars or similar "paladins" proclaiming to "purge in the name of the Light." During the chaos, a young Elle, displaying defiance towards her family's council and guards like Selatiel, fled the collapsing Palace with a Root Elf child, [[About the world/People/Angaste\|Angaste]]. This harrowing escape involved navigating a city under siege, witnessing atrocities, and ultimately a desperate confrontation where Elle lost one of her horns but managed to neutralize an attacker using an unconventional, innate form of magic.
 
-Wounded and having lost her home and people, Elle was eventually found by or brought to [[Lord Imaeth\|Lord Imaeth]]. Under his patronage, she adopted the name "Elle Demian," asserted her title as "Lady," and began to build a new power base. She formed [[The Akelarre\|The Akelarre]], a predominantly female criminal organization, and eventually rose to become one of [[Imaeth\|Imaeth]]'s trusted Council of 7. Her past also includes a period where she "owned" and utilized the Yuan-ti twins [[Akasha\|Akasha]] and [[Zassath\|Zassath]] as pawns for psychic targeting and termination.
+Wounded and having lost her home and people, Elle was eventually found by or brought to [[Lord Imaeth\|Lord Imaeth]]. Under his patronage, she adopted the name "Elle Demian," asserted her title as "Lady," and began to build a new power base. She formed [[About the world/Organisations/The Akelarre\|The Akelarre]], a predominantly female criminal organization, and eventually rose to become one of [[Imaeth\|Imaeth]]'s trusted Council of 7. Her past also includes a period where she "owned" and utilized the Yuan-ti twins [[Akasha\|Akasha]] and [[Zassath\|Zassath]] as pawns for psychic targeting and termination.
 
 ---
 
@@ -38,13 +38,13 @@ Wounded and having lost her home and people, Elle was eventually found by or bro
 
 Lady Demian presents a complex personality. Outwardly, she projects an image of a pragmatic and cynical leader, hardened by the destruction of her people. She can be dismissive ("And don’t call me that. According to them, I will never be a Lady") and embraces a survivalist mentality ("each devil for themselves"). She despises combat and what she views as superficial "surfacer laws." Her fashion sense, described as "latest devilette fashion," appears extravagant, though she herself internally acknowledged its superficiality during the crisis at the Orbital Palace.
 
-Beneath this tough exterior, however, lie other facets. She displayed considerable bravery and a protective instinct towards the young [[About the world/People/Angaste\|Angaste]] during their escape, despite the overwhelming danger. Her interactions with the steward Maers after her rescue by [[Imaeth\|Imaeth]] show a cold assertion of her newfound status ("It’s Lady. Lady Demian."). She is driven by a singular mission since the fall of her people, the exact nature of which remains her own. While capable of ruthlessness, as implied by her leadership of [[The Akelarre\|The Akelarre]] and past control of [[Akasha\|Akasha]] and [[Zassath\|Zassath]], she is also resourceful and capable of forming alliances, as seen with her offer to [[Vanera Demian\|Vanera Demian]].
+Beneath this tough exterior, however, lie other facets. She displayed considerable bravery and a protective instinct towards the young [[About the world/People/Angaste\|Angaste]] during their escape, despite the overwhelming danger. Her interactions with the steward Maers after her rescue by [[Imaeth\|Imaeth]] show a cold assertion of her newfound status ("It’s Lady. Lady Demian."). She is driven by a singular mission since the fall of her people, the exact nature of which remains her own. While capable of ruthlessness, as implied by her leadership of [[About the world/Organisations/The Akelarre\|The Akelarre]] and past control of [[Akasha\|Akasha]] and [[Zassath\|Zassath]], she is also resourceful and capable of forming alliances, as seen with her offer to [[Vanera Demian\|Vanera Demian]].
 
 ---
 
 #### Abilities and Skills
 
-*   **Leadership and Organization:** As the head of [[The Akelarre\|The Akelarre]] and a member of [[Imaeth\|Imaeth]]'s Council of 7, Lady Demian possesses significant leadership, strategic, and organizational abilities, managing a considerable criminal enterprise and influencing NUL affairs.
+*   **Leadership and Organization:** As the head of [[About the world/Organisations/The Akelarre\|The Akelarre]] and a member of [[Imaeth\|Imaeth]]'s Council of 7, Lady Demian possesses significant leadership, strategic, and organizational abilities, managing a considerable criminal enterprise and influencing NUL affairs.
 *   **Innate Demonic Traits:** Her Tiefling heritage grants her certain physical characteristics such as horns and a tail, the latter of which she has been seen to use for balance or leverage. Her "demonic noble bloodline" likely implies inherent magical potential.
 *   **Healing Magic:** Demonstrated the ability to perform healing magic, as seen when she tended to [[About the world/People/Angaste\|Angaste]]'s wounds after their escape.
 *   **Unique Offensive Magic:** During a desperate fight, after losing a horn, she tapped into a previously unknown magic, causing the flesh of a paladin to merge with her touch and allowing her to use her broken horn as a weapon to deliver a killing blow. This suggests potent, possibly reactive, magical capabilities.
@@ -56,7 +56,7 @@ Beneath this tough exterior, however, lie other facets. She displayed considerab
 #### Affiliations
 
 *   **[[Imaeth\|Imaeth]]:** Her benefactor and leader; she is a member of his Council of 7.
-*   **[[The Akelarre\|The Akelarre]]:** The criminal organization she founded and leads, primarily composed of women.
+*   **[[About the world/Organisations/The Akelarre\|The Akelarre]]:** The criminal organization she founded and leads, primarily composed of women.
 *   **[[The Black Widows\|The Black Widows]]:** Her personal guard, composed of Drow matriarchs.
 *   **[[NUL\|NUL]]:** Operates within its political and criminal structures.
 *   **[[About the world/People/Angaste\|Angaste]]:** The Root Elf child she rescued and appears to have a protective relationship with.
@@ -68,7 +68,7 @@ Beneath this tough exterior, however, lie other facets. She displayed considerab
 #### Notable Events or Achievements
 
 *   **Escape from the Orbital Palace (Date Unknown, pre-Imaeth):** Survived the destruction of her people and home, rescuing the child [[About the world/People/Angaste\|Angaste]] amidst chaos caused by invading Llerathian-like forces.
-*   **Adoption by [[Imaeth\|Imaeth]] and Rise to Power:** Was taken in by [[Lord Imaeth\|Lord Imaeth]] and subsequently established herself as Lady Demian, forming [[The Akelarre\|The Akelarre]] and ascending to his Council of 7.
+*   **Adoption by [[Imaeth\|Imaeth]] and Rise to Power:** Was taken in by [[Lord Imaeth\|Lord Imaeth]] and subsequently established herself as Lady Demian, forming [[About the world/Organisations/The Akelarre\|The Akelarre]] and ascending to his Council of 7.
 *   **Recruitment of [[Vanera Demian\|Vanera Demian]]** (c. 55 UL): Formally inducted Vanera Demian into her inner circle as the "Princess of the Burning Flame."
 *   **Former Control of [[Akasha\|Akasha]] and [[Zassath\|Zassath]]:** Utilized the Yuan-ti twins for psychic reconnaissance and assassination prior to their association with [[About the world/Organisations/The Cheese Company\|The Cheese Company]].
 
@@ -76,7 +76,7 @@ Beneath this tough exterior, however, lie other facets. She displayed considerab
 
 #### Allies and Enemies
 
-*   **Allies:** [[Imaeth\|Imaeth]], members of [[The Akelarre\|The Akelarre]], [[The Black Widows\|The Black Widows]], [[Vanera Demian\|Vanera Demian]]. [[About the world/People/Angaste\|Angaste]] (as a ward).
+*   **Allies:** [[Imaeth\|Imaeth]], members of [[About the world/Organisations/The Akelarre\|The Akelarre]], [[The Black Widows\|The Black Widows]], [[Vanera Demian\|Vanera Demian]]. [[About the world/People/Angaste\|Angaste]] (as a ward).
 *   **Enemies:** Llerathian-aligned forces (responsible for her people's destruction), rival criminal organizations, [[Akasha\|Akasha]] and [[Zassath\|Zassath]] (due to past exploitation), any who oppose [[Imaeth\|Imaeth]] or her own interests.
 
 ---
@@ -92,7 +92,7 @@ Beneath this tough exterior, however, lie other facets. She displayed considerab
 
 #### Current Role
 
-As of 59 UL, Lady Elle Demian is a significant power broker within the [[NUL\|NUL]]. She leads [[The Akelarre\|The Akelarre]], directs her personal guard [[The Black Widows\|The Black Widows]], and serves as a trusted member of [[Imaeth\|Imaeth]]'s inner circle. She is likely focused on expanding her organization's influence, fulfilling her duties to Imaeth, and pursuing her personal, long-term mission born from the traumatic destruction of her people.
+As of 59 UL, Lady Elle Demian is a significant power broker within the [[NUL\|NUL]]. She leads [[About the world/Organisations/The Akelarre\|The Akelarre]], directs her personal guard [[The Black Widows\|The Black Widows]], and serves as a trusted member of [[Imaeth\|Imaeth]]'s inner circle. She is likely focused on expanding her organization's influence, fulfilling her duties to Imaeth, and pursuing her personal, long-term mission born from the traumatic destruction of her people.
 
 ---
 
@@ -113,6 +113,6 @@ As of 59 UL, Lady Elle Demian is a significant power broker within the [[NUL\|NU
 *   She physically lost one of her horns during a desperate battle.
 *   Despite her demonic heritage and often ruthless demeanor, she showed a strong protective instinct towards the child [[About the world/People/Angaste\|Angaste]].
 *   She internally acknowledged the superficiality of her high-fashion attire during a moment of crisis.
-*   Her organization, [[The Akelarre\|The Akelarre]], is noted to be primarily run by women and controls significant protection businesses.
+*   Her organization, [[About the world/Organisations/The Akelarre\|The Akelarre]], is noted to be primarily run by women and controls significant protection businesses.
 
 ---

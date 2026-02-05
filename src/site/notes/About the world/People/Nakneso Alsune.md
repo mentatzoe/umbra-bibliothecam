@@ -118,8 +118,8 @@ As of 59 UL, Nakneso Asulne's whereabouts and activities are **Unknown**. Having
 
 #### Trivia
 
-*   Possesses the inherent traits of a Dark Elf, including superior darkvision, sunlight sensitivity, and resistance to magical sleep effects.
-*   Is proficient in Thieves' Cant, the secret language of rogues and underworld figures.
+*   Possesses the inherent traits of a Root Elf, including superior darkvision, sunlight sensitivity, and resistance to magical sleep effects.
+*   During his time in TCC, his companions tended to be weary of their possessions around him.
 *   His skills and approach suggest a background dealing in deception and infiltration.
 *   His primary loyalty appears to be to an unnamed, imprisoned mentor.
 *   He showed a notable interest in seemingly mundane items like "talking stones" found during an adventure.

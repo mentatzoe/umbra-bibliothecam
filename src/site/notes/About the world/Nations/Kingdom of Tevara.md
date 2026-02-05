@@ -8,14 +8,14 @@ The **Kingdom of Tevara**, or **Tevara**, is an Eastern kingdom in Tinnuith.
 
 ## Current Events
 
-*   **Wounded Psyche:** Tevara deeply wounded by recent decades, especially [[Battle of Fayhollow\|Battle of Fayhollow]] loss in the Second War with [[Llerath\|Llerath]] and [[NUL\|NUL]]. King Aquilino's army devastated. Llerath used Templars, causing firestorm and cinders.
+*   **Wounded Psyche:** Tevara deeply wounded by recent decades, especially [[Battle of Fayhollow\|Battle of Fayhollow]] loss in the Second War with [[About the world/Nations/Llerathian Empire\|Llerath]] and [[NUL\|NUL]]. King Aquilino's army devastated. Llerath used Templars, causing firestorm and cinders.
 *   **Horror and Anger:** Loss of Tevaran children led to anger, blaming deceased king. Desire for vengeance against Llerath. Prophet stories emerge, promising vengeance. Small rebellion in Fayhollow creates schism.
-*   **Broken Society:** Llerath fire caused desert expansion, splitting Tevara. Poor growing conditions. Gnoll raiders from depths cause murder and destruction in kingdom's center. Refugees flood south, abandoning western cities/towns. Limited trade with [[Sansi\|Sansi]] overland. Trade routes to [[Kylthen\|Kylthen]] or [[Maraga\|Maraga]] cut off by Gnolls.
-*   **Fragile Balance:** Kingdom fragile, no power to push back Gnoll Warhost. West March abandoned, misery in former prosperous cities. "The Ways" (organization?) aid people/land, but kingdom severely weakened, decades to recover.
+*   **Broken Society:** Llerath fire caused desert expansion, splitting Tevara. Poor growing conditions. Gnoll raiders from depths cause murder and destruction in kingdom's center. Refugees flood south, abandoning western cities/towns. Limited trade with [[About the world/Nations/Kingdom of Sansi\|Sansi]] overland. Trade routes to [[About the world/Nations/Principate of Kylthen\|Principate of Kylthen]] or [[Maraga\|Maraga]] cut off by Gnolls.
+*   **Fragile Balance:** Kingdom fragile, no power to push back Gnoll Warhost. West March abandoned, misery in former prosperous cities. Followers of the Four Paths aid both people and the land, but the kingdom severely weakened, decades to recover.
 
 ## Geography and Commerce
 
-*   **Northern Tevara:** Mostly jungles, few hidden kingdoms. Alpaca fur trade with [[Sansi\|Sansi]] and [[Almarosa\|Almarosa]]. Some fruits/plants, little other known wealth.
+*   **Northern Tevara:** Mostly jungles, few hidden kingdoms. Alpaca fur trade with [[About the world/Nations/Kingdom of Sansi\|Sansi]] and [[About the world/Nations/Almarrosa\|Almarrosa]]. Some fruits/plants, little other known wealth.
 *   **Eastern Coast:** Small sea towns and cities for sailors, fishermen, traders. Trade houses weakened, but gained power due to aristocratic losses.
 *   **Southern Cities:** Hold landed gentry and farms. Towns/cities full of refugees cared for by nobles and alms houses (financed by kingdom patriots who spy on nobles). People favor helping citizens, but resent refugees not working northern lands. Deserted zone cities/towns/hamlets taken by gnolls, fiends, horrors. Gnoll raids on populated towns, Tevaran factions organize defenses/incursions.
 
@@ -114,6 +114,7 @@ Lord Theodor Esquina
 
 Geopolitical, Kingdom
 
+:::hidden
 ## Articles Under Kingdom of Tevara
 
 *   [[Amihan Loras\|Amihan Loras]]
@@ -132,3 +133,5 @@ Geopolitical, Kingdom
 *   [[Warchief Blood Prongs\|Warchief Blood Prongs]]
 
 #kingdom #tevara #locations #factions #in-lore #geography #politics
+
+:::

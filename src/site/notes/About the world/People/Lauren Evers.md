@@ -10,7 +10,7 @@ Head of Student Wellbeing, [[MUD\|MUD]], [[Criosia\|Criosia]]
 This character is related to the STGM storyline.
 First appearance: Summer, year 1043.
 
-She first appeared in “Return to the MUD”, when [[The Naturals\|The Naturals]] teleported back into the University after the battle of Luggermourne. After interrogating them to understand their relationship with Murgus, and revealing who Murgus actually was ([[Amin Steelbane\|Amin Steelbane]]), she vouched for them and let them continue with their university journey.
+She first appeared in “Return to the MUD”, when [[The Naturals\|The Naturals]] teleported back into the University after the battle of Luggermourne. After interrogating them to understand their relationship with Murgus, and revealing who Murgus actually was ([[About the world/People/Amin Steelbane\|Amin Steelbane]]), she vouched for them and let them continue with their university journey.
 
 She's now the patron of the party, giving them missions whenever appropriate.
 

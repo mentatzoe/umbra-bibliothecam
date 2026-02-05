@@ -13,7 +13,7 @@ The kingdom of Sansi is currently ruled by King Catalino I of the Dominguez dyna
 
 ### History
 
-Sansi was founded by human settlers who migrated to the region centuries ago. The first king, Jaime I, established the [[Barbero dynasty\|Barbero dynasty]], which ruled the kingdom for many generations. The secession of [[Lubnice\|Lubnice]] and the subsequent civil war marked a turning point in Sansi's history. The conflict resulted in the dissolution of the [[King's Horns\|King's Horns]], a royal order of knights, and the imprisonment of Queen Helena, who was later accused of treason. The recent victory of King Catalino I, aided by the Cheese Company and Guan Dao's forces, has ushered in a new era for Sansi, but the kingdom's future remains uncertain.
+Sansi was founded by human settlers who migrated to the region centuries ago. The first king, Jaime I, established the [[Barbero dynasty\|Barbero dynasty]], which ruled the kingdom for many generations. The secession of [[About the world/Nations/Lubnice\|Lubnice]] and the subsequent civil war marked a turning point in Sansi's history. The conflict resulted in the dissolution of the [[King's Horns\|King's Horns]], a royal order of knights, and the imprisonment of Queen Helena, who was later accused of treason. The recent victory of King Catalino I, aided by the Cheese Company and Guan Dao's forces, has ushered in a new era for Sansi, but the kingdom's future remains uncertain.
 
 ### Culture and Traditions
 

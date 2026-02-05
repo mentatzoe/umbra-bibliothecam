@@ -21,13 +21,13 @@ El cuerpo estudiantil se divide en cinco Colegios Mayores, cada uno representati
 
 ### Colegios Mayores
 
-| Colegio       | Fundador | Valores                    | Símbolo          | Misión                                            | Fortalezas                                         |
-| ------------- | -------- | -------------------------- | ---------------- | ------------------------------------------------- | -------------------------------------------------- |
-| **Armonía**   | Bel’Dach | Equilibrio y percepción    | Ojo de Esmeralda | Mantener el equilibrio natural                    | Observación, percepción, balance natural           |
-| **Gracia**    | Shael    | Ritmo y sutileza           | Pie de Plata     | Proveer guía en caminos inciertos                 | Movimiento, sigilo, sutileza, recuperación, arcana |
-| **Vigor**     | Alaunië  | Fuerza y resistencia       | Lanza de Sangre  | Soportar el peso del mundo                        | Resistencia, empatía, fuerza bruta                 |
-| **Concordia** | Aurelius | Comunicación y crecimiento | Lengua de Oro    | Fomentar el crecimiento y el intercambio          | Comunicación, diplomacia, negociación              |
-| **Verdad**    | Siniy    | Conocimiento y razón       | Tomo Índigo      | Preservar el conocimiento y la realidad histórica | Memoria, lógica, estrategia, razonamiento          |
+| Colegio       | Fundador | Valores                    | Símbolo         | Misión                                            | Fortalezas                                         |
+| ------------- | -------- | -------------------------- | --------------- | ------------------------------------------------- | -------------------------------------------------- |
+| **Armonía**   | Bel’Dach | Equilibrio y percepción    | Ojo  Esmeralda  | Mantener el equilibrio natural                    | Observación, percepción, balance natural           |
+| **Gracia**    | Shael    | Ritmo y sutileza           | Pie de Plata    | Proveer guía en caminos inciertos                 | Movimiento, sigilo, sutileza, recuperación, arcana |
+| **Vigor**     | Alaunië  | Fuerza y resistencia       | Lanza de Sangre | Soportar el peso del mundo                        | Resistencia, empatía, fuerza bruta                 |
+| **Concordia** | Aurelius | Comunicación y crecimiento | Lengua de Oro   | Fomentar el crecimiento y el intercambio          | Comunicación, diplomacia, negociación              |
+| **Verdad**    | Siniy    | Conocimiento y razón       | Tomo Índigo     | Preservar el conocimiento y la realidad histórica | Memoria, lógica, estrategia, razonamiento          |
 
 ### El Preámbulo
 

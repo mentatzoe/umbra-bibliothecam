@@ -42,45 +42,45 @@ She survived by selling her services as a healer, which were outstanding even on
 
 Her first ally was a wood elf by the name of [[About the world/People/Nessa Anarion\|Nessa Anarion]], a druid who said to be running from a family obligation she didn't want to follow. Lux sympathised with trying to escape the oppression of family (either biological or adoptive), and their adventures began in the Eldengrothian region of Saya-Besaja when she helped her escape.
 
-In this escape, they met the Knight [[Ladroit Lagauche\|Ladroit Lagauche]], a paladin of great heart, good intentions, but sometimes lacking in wit. His unwavering pursuit of the righteous good impressed Lux in ways that would echo throughout her life, despite her increasing frustration towards what she believed to be an inherently masculine trait of stubbornness.
+In this escape, they met the Knight [[About the world/People/Ladroit Lagauche\|Ladroit Lagauche]], a paladin of great heart, good intentions, but sometimes lacking in wit. His unwavering pursuit of the righteous good impressed Lux in ways that would echo throughout her life, despite her increasing frustration towards what she believed to be an inherently masculine trait of stubbornness.
 
-As a mercenary party that compromised on helping those in need for a competitive price, they ventured to the land of the thousand lakes, the [[Kingdom of Lubnice\|Kingdom of Lubnice]], with its capital [[Tavascan\|Tavascan]] a bustling exchange of knowledge, commerce, and culture. 
+As a mercenary party that compromised on helping those in need for a competitive price, they ventured to the land of the thousand lakes, the [[Kingdom of Lubnice\|Kingdom of Lubnice]], with its capital [[About the world/People/Tavascan\|Tavascan]] a bustling exchange of knowledge, commerce, and culture. 
 
 They set base there for a few months, where they met the three members that ended completing their party: 
-* A young human wizard focused on understanding the inner workings of the cosmology of their world, [[Liorne Imaeth\|Liorne Imaeth]].
-* A dwarf pilgrim who had taken on the study of the different martial arts and meditation techniques of the surface, [[Phay Mae\|Phay Mey]].
-* A halfling who self-described with the very noble intent of redistributing the riches wrongfully taken by the human colonisers to those who truly needed them (namely, himself), [[Daimon Garmez\|Daimon Garmez]].
+* A young human wizard focused on understanding the inner workings of the cosmology of their world, [[About the world/People/Liorne Imaeth\|Liorne Imaeth]].
+* A dwarf pilgrim who had taken on the study of the different martial arts and meditation techniques of the surface, [[About the world/People/Phay Mae\|Phay Mey]].
+* A halfling who self-described with the very noble intent of redistributing the riches wrongfully taken by the human colonisers to those who truly needed them (namely, himself), [[About the world/People/Daimon Garmez\|Daimon Garmez]].
 
 The following years took them on hundreds of adventures: They crossed paths with the [[About the world/Organisations/The Vesper Crusaders\|Vesper Crusaders]], ventured inside of the deadly jungles of [[About the world/Nations/Confederation of Votar Tok\|Votar Tok]] to help both [[Warfas\|Warfas]] and dwarven batallions, fought aberrations that terrorised the people of [[About the world/Nations/Principate of Kylthen\|Kylthen]], caused an uprising within the people of [[Maraga\|Maraga]] which left it divided into five independent provinces, they sailed the waters to the lands of [[About the world/Nations/Almarrosa\|Almarrosa]] and the elemental palaces... but their true story began when they left the material plane to travel the outer planes by commission of [[Theren Liadon Sr. \|Sha'ir Liadon]].
 
 ### The Origins Prophecy
-It was in one of the trips to the [[Elemental Plane of Air\|Elemental Plane of Air]], that in the city of [[Zephyr\|Zephyr]] they met a bard whose song would capture Lux’s attention:
+It was in one of the trips to the [[About the world/Locations/Elemental Plane of Air\|Elemental Plane of Air]], that in the city of [[About the world/Locations/Zephyr\|Zephyr]] they met a bard whose song would capture Lux’s attention:
 
-**The song of the Mountain’s Child**
-“A child of stone, left to the cold,  
-Raised by shadows, distant and bold.  
-Toil was her burden, silence her kin,  
-But the mountain’s whisper stirred within.
-
-Six shall walk to beside their fate,  
-Friends bound by threads both love and hate.  
-But one will fall to power’s hand,  
-And loose the darkness on the land.
-
-The skies will burn, the ground will tear,  
-Demons will rise from the Abyss’s snare.  
-She’ll turn from the ashes, her heart set free,  
-To find the truth in the mountains’ plea.
-
-Alone she’ll walk, where no one goes,  
-To claim the light the mountain knows.  
-And when she returns, her crown will blaze,  
-A queen of fire, in the final days.
-
-Her companions will bow, though shadows may creep,  
-She will heal the land where the demons sleep.  
-But in her light, a shadow will grow,  
-And in time, her name, all will know.”
+> **The song of the Mountain’s Child**
+> “A child of stone, left to the cold,  
+> Raised by shadows, distant and bold.  
+> Toil was her burden, silence her kin,  
+> But the mountain’s whisper stirred within.
+> 
+> Six shall walk to beside their fate,  
+> Friends bound by threads both love and hate.  
+> But one will fall to power’s hand,  
+> And loose the darkness on the land.
+> 
+> The skies will burn, the ground will tear,  
+> Demons will rise from the Abyss’s snare.  
+> She’ll turn from the ashes, her heart set free,  
+> To find the truth in the mountains’ plea.
+> 
+> Alone she’ll walk, where no one goes,  
+> To claim the light the mountain knows.  
+> And when she returns, her crown will blaze,  
+> A queen of fire, in the final days.
+> 
+> Her companions will bow, though shadows may creep,  
+> She will heal the land where the demons sleep.  
+> But in her light, a shadow will grow,  
+> And in time, her name, all will know.”
 - Siirah Koloen
 
 The bard tells her that the song comes from an ancient text, and that she had always been drawn to it - as if that was a story that she needed to tell. She urged the group to recover the cache where it was last lost to a pirate raid.
@@ -89,7 +89,7 @@ Lux cannot shake the idea that this story eerily resembles her life, and that th
 
 After a series of ordeals that have failed to make the records, they found the cache, where Lux managed to read the full text. She is shaken, as it doesn't only seem to perfectly describe her upbringing, but also continues to narrate future events that, if true, would bring them incredible pain. She isn't sure of how they are going to happen, but she now knows that her party will betray her (and the entirety of Tinnuith), and that magic cannot be trusted.
 
-The cache also contained a staff of power, named the [[Dreamweaver\|Dreamweaver]], which Liorne took. 
+The cache also contained a staff of power, named the [[About the world/Artefacts/Dreamweaver\|Dreamweaver]], which Liorne took. 
 
 ### Before the Calamity
 Shortly after retrieving the cache, the group decided to return to the material plane to try and pay apply all the learnings they had in their extra-planar trips. 

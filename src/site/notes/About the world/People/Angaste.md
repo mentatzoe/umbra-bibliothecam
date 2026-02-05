@@ -13,18 +13,18 @@
 > |                       |                                                                                                |
 > | :-------------------- | :---------------------------------------------------------------------|
 > | **Alias(es)**       | Angie (Used by [[About the world/People/Lady Demian\|Lady Demian]])                                        |
-> | **Title(s)**          | Priestess of Rachna (Root Elf/Drow tradition), Survivor of the Orbital Palace 
+> | **Title(s)**          | Priestess of Rachna (Root Elf/Drow tradition), Survivor of the [[About the world/People/Orbital Palace\|Orbital Palace]], Leader of [[The Black Widows\|The Black Widows]] |
 > | **Species**         | Root Elf / Drow                                                                                |
-> | **Affiliation(s)**    | [[About the world/People/Lady Demian\|Lady Demian]] (Rescuer and protector), [[Himbadihr\|Himbadihr]] (Original Community), Temple of Rachna (Original Faith) |
-> | **Age**               | Approx. 10-11 (at time of escape from Orbital Palace), Older by 59 UL (Exact age unspecified) |
+> | **Affiliation(s)**    | [[About the world/People/Lady Demian\|Lady Demian]], [[The Black Widows\|The Black Widows]], [[Himbadihr\|Himbadihr]], Temple of [[Rachna\|Rachna]] |
+> | **Age**               | 51 years of age as of 1050C / 59UL |
 > | **Gender**            | Female                                                                                         |
-> | **Status**            | Active (Presumed under the care/influence of Lady Demian as of 59 UL) |
+> | **Status**            | Active  |
 
 ---
 
 #### Overview
 
-Angaste is a young Root Elf/Drow, a survivor of the catastrophic attack on the "Orbital Palace," an underground settlement of her people. Rescued during the ensuing chaos by the Tiefling noble [[About the world/People/Lady Demian\|Raphaelle (later Lady Demian)]], Angaste has since been under her protection. Despite her youth at the time of the attack, she displayed remarkable toughness and an early understanding of survival, rooted in the rites of her people. She is a priestess of Rachna, a deity central to Drow faith, and has trained [[LiNeerafae\|LiNeerafae]], a surface-born Drow, in the ways of their people. Her experiences have instilled in her a deep loyalty to Lady Demian, seeing her as a kind protector despite her imposing appearance.
+Angaste is a young Root Elf/Drow, a survivor of the catastrophic attack on the "Orbital Palace," an underground settlement of her people. Rescued during the ensuing chaos by the Tiefling noble [[About the world/People/Lady Demian\|Raphaelle (later Lady Demian)]], Angaste has since been under her protection. Despite her youth at the time of the attack, she displayed remarkable toughness and an early understanding of survival, rooted in the rites of her people. She is a priestess of Rachna, a deity central to Drow faith, and has trained [[About the world/People/LiNeerafae\|LiNeerafae]], a surface-born Drow, in the ways of their people. Her experiences have instilled in her a deep loyalty to Lady Demian, seeing her as a kind protector despite her imposing appearance.
 
 ---
 
@@ -34,7 +34,7 @@ Angaste's early life was within the "Orbital Palace," a significant underground 
 
 Despite her young age, Angaste's upbringing as a Root Elf had instilled in her a degree of resilience and understanding of crisis survival; it is noted that "fights to death weren’t uncommon as root elvish rites of passing." She possessed an ornate dagger, given to her by Raphaelle, and knew how to use it. Together, they navigated the besieged city, witnessing atrocities before a final confrontation led to Raphaelle's injury and their subsequent rescue or discovery by agents of [[Lord Imaeth\|Lord Imaeth]]. Following this, Angaste remained with Raphaelle as she became Lady Demian.
 
-Later, Angaste is known to have trained [[LiNeerafae\|LiNeerafae]], a surface-born Drow, suggesting she continued to uphold and pass on the traditions and skills of her people even after the loss of her home. This also indicates she survived and matured under Lady Demian's care.
+Later, Angaste is known to have trained [[About the world/People/LiNeerafae\|LiNeerafae]], a surface-born Drow, suggesting she continued to uphold and pass on the traditions and skills of her people even after the loss of her home. This also indicates she survived and matured under Lady Demian's care.
 
 ---
 

@@ -15,20 +15,20 @@
 > | **Alias(es)**       | Dominik, Dom |
 > | **Title**       | Martial Artist, Former Member of [[About the world/Organisations/The Cheese Company\|The Cheese Company]], Apprentice of the Path |
 > | **Species**     | Human                                                               |
-> | **Affiliation** | Former [[About the world/Organisations/The Cheese Company\|The Cheese Company]], [[Ciraya Monastery\|Ciraya Monastery]] (Former Apprentice), Connections to [[Phay Mey (The Mongrel)\|Phay Mey (The Mongrel)]] |
+> | **Affiliation** | Former [[About the world/Organisations/The Cheese Company\|The Cheese Company]], [[About the world/Locations/Ciraya Monastery\|Ciraya Monastery]] (Former Apprentice), Connections to [[Phay Mey (The Mongrel)\|Phay Mey (The Mongrel)]] |
 > | **Gender**      | Male                                                               |
 
 ---
 
 #### Overview
 
-**Dominik Stoch** is a highly skilled human martial artist, best known for his time as a **founding member of [[About the world/Organisations/The Cheese Company\|The Cheese Company]]** (55 UL). Originally an apprentice at the [[Ciraya Monastery\|Ciraya Monastery]] under the tutelage of the monk [[Kemit Enoch\|Kemit Enoch]], he possessed a notably kind heart and dedication, described by his mentor as having the "spirit of youth." He joined [[About the world/People/Calliope Vanhoutte\|Calliope]] and [[About the world/People/Guan Dao\|Guan Dao]] to form the adventuring company, contributing significantly to their exploits, including the rescue of [[About the world/People/Calliope Vanhoutte\|Calliope]] from death (c. 56 UL) and navigating the dangers of the [[About the world/History/Sansi Civil War\|Sansi Civil War]] (c. 56-58 UL). His path took a sharp turn following the devastating revelation that his esteemed Master, [[Phay Mey (The Mongrel)\|Phay Mey]], was the treacherous figure known as The Mongrel, responsible for horrific experiments. Compounded by the loss of his mentor Kemit during the conflicts near [[Burr Hollow\|Burr Hollow]], Dominik left The Cheese Company (c. 58 UL) to pursue a solitary quest, seemingly driven by the weight of betrayal and the legacy left by Kemit.
+**Dominik Stoch** is a highly skilled human martial artist, best known for his time as a **founding member of [[About the world/Organisations/The Cheese Company\|The Cheese Company]]** (55 UL). Originally an apprentice at the [[About the world/Locations/Ciraya Monastery\|Ciraya Monastery]] under the tutelage of the monk [[Kemit Enoch\|Kemit Enoch]], he possessed a notably kind heart and dedication, described by his mentor as having the "spirit of youth." He joined [[About the world/People/Calliope Vanhoutte\|Calliope]] and [[About the world/People/Guan Dao\|Guan Dao]] to form the adventuring company, contributing significantly to their exploits, including the rescue of [[About the world/People/Calliope Vanhoutte\|Calliope]] from death (c. 56 UL) and navigating the dangers of the [[About the world/History/Sansi Civil War\|Sansi Civil War]] (c. 56-58 UL). His path took a sharp turn following the devastating revelation that his esteemed Master, [[Phay Mey (The Mongrel)\|Phay Mey]], was the treacherous figure known as The Mongrel, responsible for horrific experiments. Compounded by the loss of his mentor Kemit during the conflicts near [[About the world/Locations/Burr Hollow\|Burr Hollow]], Dominik left The Cheese Company (c. 58 UL) to pursue a solitary quest, seemingly driven by the weight of betrayal and the legacy left by Kemit.
 
 #### Background
 
-Dominik's formative years were spent at the **[[Ciraya Monastery\|Ciraya Monastery]]**, training as an apprentice (Novitiate) under [[Kemit Enoch\|Kemit Enoch]] in the ways of their martial and philosophical order, known as the Path. Early monastery records might speak of a youth with wide brown eyes and golden hair, but upon joining [[About the world/Organisations/The Cheese Company\|The Cheese Company]] in 55 UL, he was known for his **shaved head**. During his apprenticeship, he accompanied Kemit on missions, including a notable instance near [[Burr Hollow\|Burr Hollow]] where they rescued the dryad [[Olea\|Olea]] from bullywugs and a grey-skinned shaman, learning the hard lesson that not everyone can be saved.
+Dominik's formative years were spent at the **[[About the world/Locations/Ciraya Monastery\|Ciraya Monastery]]**, training as an apprentice (Novitiate) under [[Kemit Enoch\|Kemit Enoch]] in the ways of their martial and philosophical order, known as the Path. Early monastery records might speak of a youth with wide brown eyes and golden hair, but upon joining [[About the world/Organisations/The Cheese Company\|The Cheese Company]] in 55 UL, he was known for his **shaved head**. During his apprenticeship, he accompanied Kemit on missions, including a notable instance near [[About the world/Locations/Burr Hollow\|Burr Hollow]] where they rescued the dryad [[Olea\|Olea]] from bullywugs and a grey-skinned shaman, learning the hard lesson that not everyone can be saved.
 
-His mentor, Kemit, eventually left the monastery, continuing his journey and chronicling his experiences in a manuscript. These letters, later received by Dominik, detailed Kemit's efforts to protect Burr Hollow, his philosophical struggles, his eventual confrontation with an Astagioni squad, and his death fighting for his beliefs (c. 55 UL). Kemit entrusted Dominik with delivering this manuscript to [[Lord Tjesh Enoch\|Lord Tjesh Enoch]] in [[Druiminn\|Druiminn]]. Dominik's other significant figure, Master [[Phay Mey (The Mongrel)\|Phay Mey]], would later be revealed as The Mongrel, orchestrating atrocities from a hidden manor.
+His mentor, Kemit, eventually left the monastery, continuing his journey and chronicling his experiences in a manuscript. These letters, later received by Dominik, detailed Kemit's efforts to protect Burr Hollow, his philosophical struggles, his eventual confrontation with an Astagioni squad, and his death fighting for his beliefs (c. 55 UL). Kemit entrusted Dominik with delivering this manuscript to [[About the world/People/Lord Tjesh Enoch\|Lord Tjesh Enoch]] in [[About the world/Locations/Druiminn\|Druiminn]]. Dominik's other significant figure, Master [[Phay Mey (The Mongrel)\|Phay Mey]], would later be revealed as The Mongrel, orchestrating atrocities from a hidden manor.
 
 #### Personality
 
@@ -52,14 +52,14 @@ Dominik is an exceptionally skilled martial artist, honed through monastic train
 #### Affiliations
 
 *   **[[About the world/Organisations/The Cheese Company\|The Cheese Company]] (55 UL - c. 58 UL):** Founding member. (Status: Former Member).
-*   **[[Ciraya Monastery\|Ciraya Monastery]]:** Former apprentice/novitiate under the late [[Kemit Enoch\|Kemit Enoch]]. Bearer of Kemit's final manuscript.
+*   **[[About the world/Locations/Ciraya Monastery\|Ciraya Monastery]]:** Former apprentice/novitiate under the late [[Kemit Enoch\|Kemit Enoch]]. Bearer of Kemit's final manuscript.
 *   **[[Phay Mey (The Mongrel)\|Phay Mey (The Mongrel)]]'s Network:** Directly impacted by Phay Mey's betrayal and involved in the investigation and confrontation at his Manor.
 
 #### Notable Events or Achievements (Timeline: Pre-59 UL)
 
 Dominik's documented history involves significant events and personal trials:
 
-*   **Apprenticeship at [[Ciraya Monastery\|Ciraya Monastery]]** (Dates prior to 55 UL): Trained under [[Kemit Enoch\|Kemit Enoch]]. Participated in missions, including the rescue of [[Olea\|Olea]] near [[Burr Hollow\|Burr Hollow]].
+*   **Apprenticeship at [[About the world/Locations/Ciraya Monastery\|Ciraya Monastery]]** (Dates prior to 55 UL): Trained under [[Kemit Enoch\|Kemit Enoch]]. Participated in missions, including the rescue of [[Olea\|Olea]] near [[About the world/Locations/Burr Hollow\|Burr Hollow]].
 *   **Founding of The Cheese Company** (55 UL): Co-founded the adventuring group with [[About the world/People/Calliope Vanhoutte\|Calliope]] and [[About the world/People/Guan Dao\|Guan Dao]].
 *   **Early Adventures with TCC** (c. 55-56 UL): Participated in various missions chronicled by Calliope, including investigating [[Rocamayor\|Rocamayor]]/[[Eileithiya\|Eileithiya]] (56 UL) and the [[Famax Encounter\|Famax Encounter]] (56 UL). Received Kemit Enoch's final letters detailing his departure from the monastery and subsequent death fighting NUL forces (Astagione) (c. 55 UL).
 *   **Rescue of Calliope** (c. 56 UL): Played a key role alongside [[Mathis\|Mathis]] in rescuing [[About the world/People/Calliope Vanhoutte\|Calliope]] after her death near [[Sencia\|Sencia]].
@@ -91,7 +91,7 @@ Dominik's equipment reflects his monastic training and adventuring needs:
 *   **Potions of Healing (Greater):** Carries potent healing remedies.
 *   **Bedroll, Mess Kit, Tinderbox, Torches, Waterskin, Rope:** Standard adventuring gear.
 *   **Clothes, Traveler's:** Practical attire for journeys.
-*   **Manuscript from Kemit Enoch:** Entrusted with delivering this important document to [[Lord Tjesh Enoch\|Lord Tjesh Enoch]].
+*   **Manuscript from Kemit Enoch:** Entrusted with delivering this important document to [[About the world/People/Lord Tjesh Enoch\|Lord Tjesh Enoch]].
 
 #### Current Role
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about-the-world/nations/almarrosa/"}
+{"dg-publish":true,"permalink":"/about-the-world/nations/almarrosa/","tags":[null,[null,null,null,null]]}
 ---
 
 # Almarosa City
@@ -76,4 +76,3 @@
     * Their crab rice is sought after in the whole region.
 * The settlement of Almacueva hosts the kobold colony that works on the diamond mines in the East.
 
-#locations #cities #almarosa #politics #economy #in-lore #races

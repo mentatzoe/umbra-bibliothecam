@@ -99,3 +99,28 @@ Each Overseer has a particular domain as part of their portfolio with the except
 		- **Pride/Self-Love:** Knimick inflates self-importance to test mortals, pushing them toward either destructive arrogance or empowering self-confidence, teaching them the fine line between hubris and strength.
 
 
+:::hidden
+Internally, these "deities" are entities tasked with the maintenance of the simulation where all of the inhabitants of Tinnuith have been trapped, for reasons still yet undecided or undisclosed. This could be due to penance to these souls, it could be because these gods are trying to assess whether the nature of mortals is inherently evil or cruel, or because of another reason.
+
+They exist to ensure that the world is in its most optimal state, and that its inhabitants are safe and capable of reaching their highest potential.
+
+Because of this, the deities are modelled against concepts of computer science and a large distributed system:
+
+- **Trickery**: Knimick, The Unseen Hand
+	- Loopholes, Deception, Pentesting
+- **Life**: Tchari, Healer of the Cycle 
+	- Updates, Patching, Bug Fixes
+- **War**: Reziel, Commander of the Unbreakable Watch
+	- Security, Encryption, Firewalls
+- **Light**: The Custodian, Keeper of Balance
+	- Management, Product, Design
+- **Knowledge**: Dalgos, All-Seeing Sage
+	- Logging, Monitoring, Troubleshooting
+- **Tempest**: Stravion, Conductor of Boundless Growth
+	- Scaling, Performance Optimization, Load Balancing
+- **Nature**: Lythara, Weaver of Infinite Patterns
+	- Scripting, Optimization, Automation
+- **Death**: Derevya, The Harvester of the Lost
+	- Garbage collection, Deprecation, Migration
+	- Alternative titles: Harbinger of Final Release, Mistress of Timeless Ascension
+:::

@@ -100,3 +100,36 @@ Outside Llerath, particularly within the [[NUL\|NUL]], Her Enlightened Enquiry i
 *   [[About the world/People/Primus Vindicator Lemons\|Primus Lemons]] (Head of Defense, former Squadmate)
 
 ---
+:::hidden
+#### Related Articles
+
+*   [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]
+*   [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]
+*   [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]
+*   [[Keith\|Keith]]
+*   [[Inquisitor Astraea\|Inquisitor Astraea]]
+*   [[NUL\|NUL]]
+*   [[About the world/Organisations/The Cause\|The Cause]]
+*   [[Magic in Llerath\|Magic in Llerath]]
+
+---
+**Tags:** #organization #llerath #inquisition #magic_regulation #illumination_branch #theocracy #order_vs_chaos
+
+
+
+Lux's beacons
+Illuminators
+Eyes of Illumination
+Photons??
+Illuminated? Enlightened? as a differentiator against other mages?
+the inquisiton seeks to enlighten the corners where chaos can corrupt magic
+
+an illustrator, a beam
+
+During the time it had "stopped", it had ceased to be light.
+
+Enlightened enquiry
+
+
+Could you help me write a diegetic wikipedia article (considering current year UL 59) for Her Enlightened Enquiry? Consider all the player notes and events, and the different timelines
+:::

@@ -3,9 +3,9 @@
 ---
 
 ---
-# Second War between [[Llerath\|Llerath]] and the [[Worldbuilding and brainstorming/Free Nations\|Free Nations]]
+# Second War between [[Llerath\|Llerath]] and the [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Free Nations\|Free Nations]]
 
-The War between [[Llerath\|Llerath]] and the [[Worldbuilding and brainstorming/Free Nations\|Free Nations]] was a protracted conflict marked by raids and skirmishes between both factions. While many viewed it as the typical power struggle between two large empires, the true motives lay in a cross-plane battle to contain ruinous forces.
+The War between [[Llerath\|Llerath]] and the [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Free Nations\|Free Nations]] was a protracted conflict marked by raids and skirmishes between both factions. While many viewed it as the typical power struggle between two large empires, the true motives lay in a cross-plane battle to contain ruinous forces.
 
 ## Conflict Overview
 
@@ -63,13 +63,13 @@ Now, only desolation remains. No one can hear the sinister laughter that emerged
 
 **Potential Obsidian Links:**
 * [[Llerath\|Llerath]]
-* [[Worldbuilding and brainstorming/Free Nations\|Free Nations]]`
+* [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Free Nations\|Free Nations]]`
 * [[Tevara\|Tevara]]`
 * [[About the world/Organisations/Order of the Righteous Path of Good\|Order of the Righteous Path of Good]]`
 * [[Temple of [name missing\|Temple of [name missing]]] ` (Consider creating a note for the Temple once you have a name)
 * [[Sansi\|Sansi]]` (If you plan to detail other nations/courts)
 * [[Maraga\|Maraga]]` (If you plan to detail other nations/courts)
-* [[Lubnice\|Lubnice]]` (If you plan to detail other nations/courts)
+* [[About the world/Nations/Lubnice\|Lubnice]]` (If you plan to detail other nations/courts)
 * [[Anniken Buen\|Anniken Buen]]` (Character note)
 * [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]] (Location/Faction note)
 * [[Grand Army of Llerath\|Grand Army of Llerath]] (Faction/Military Unit note)

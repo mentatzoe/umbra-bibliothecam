@@ -24,7 +24,9 @@ The speech delivered by Vanera Demian circa **55 UL / 1046 Continental**, upon h
 
 ### Context
 
-Delivered around **55 UL / 1046 Continental**—a period likely marked by recent NUL successes or ongoing tensions following events like the [[About the world/History/Sansi Civil War\|Sansi Civil War]]—Vanera's speech occurred during her formal induction into [[About the world/People/Lady Demian\|Lady Demian]]'s powerful inner circle in Dhirdam. This elevation granted her a platform before influential NUL figures. By anchoring the destruction of Hive 81 within the Second Freedom War era, Vanera contextualizes the extreme actions of [[About the world/Organisations/Her Enlightened Enquiry\|Inquisitor Astraea]] within a period of known conflict and potential Llerathian overreach, lending credibility to her narrative of state-sanctioned brutality against perceived deviants. The speech serves to solidify her position, publicly denounce her former homeland, and galvanize support for Lady Demian and the NUL cause.
+Delivered in early 1046 Continental, Vanera's speech occurred during her formal induction into [[About the world/People/Lady Demian\|Lady Demian]]'s inner circle in Dhirdam. This elevation granted her a platform before influential NUL figures, and it allegedly set into motion a chain of events that would lead to start of the first successful Invasion of Llerath later that year. 
+
+By anchoring the destruction of Hive 81 within the Second Freedom War era, Vanera contextualizes the extreme actions of [[About the world/Organisations/Her Enlightened Enquiry\|Inquisitor Astraea]] within a period of known conflict and potential Llerathian overreach, lending credibility to her narrative of state-sanctioned brutality against perceived deviants. The speech serves to solidify her position, publicly denounce her former homeland, and galvanize support for Lady Demian and the NUL's values.
 
 ---
 
@@ -36,17 +38,16 @@ Delivered around **55 UL / 1046 Continental**—a period likely marked by recent
 >
 > This is more than an honour; it is a recognition, a testament shared by all in this room, that the Freedom of our United Nations is not merely an ideal, but a hard-won reality.
 >
-> I was not born into such freedom. Many of you know my story, but some truths bear repeating, lest we forget the liberty we are here to protect, the chains we swore to break. 
+> I was not born into such freedom. Many of you know my story, but some truths bear repeating, lest we forget who we swore to protect. 
 > 
 > This is the story of how Llerath's 'Light' tried to incinerate me, only to ignite my quest for Freedom:
 >
-> I grew up within the cold, structured 'order' of the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]: A Hive child. No, I did not always look like this.
+> I grew up within the cold, structured 'order' of the Llerathian Empire: A Hive child. 
+> Yes, I see your faces. No, I did not always look like this.
 >
-> I was raised by the faceless Mother of the Temple, bred for the only purpose of being brainwashed to serve a megalomaniac lunatic who filled her existential void with a thirst for conquest. A **spell-caster** who dresses her delusion as divinity. A powerful one, yes, but also one who trembles at the thought of true arcane freedom.
->
-> Why else declare all magic but her own 'chaotic' and 'dangerous'? That isn't divine wisdom, that is the sound of profound fear. Fear of being challenged, fear of being equaled, fear of being exposed as nothing more than a powerful, paranoid spell-caster.
->
-> Claiming herself a Goddess, risen from the ashes of the Cataclysm, she promised peace and protection. But her promises built on our subservience, her 'peace' maintained by our chains! She seized a void in power, preyed on the fear left by the abyssal destruction, offering security only to those who sacrificed their very being to her Light and Order!
+> I was raised by the faceless Mother of the Temple, bred to serve a megalomaniac lunatic who filled her existential void with a thirst for conquest and delusions of grandeur. A... *spell-caster*... who trembles at the thought of true arcane freedom.
+> 
+> Claiming herself a Goddess, risen from the ashes of the Cataclysm, she promised peace and protection. She seized a void in power and preyed on the fear left by the abyssal destruction, offering security only to those who sacrificed their very being to her Light and Order!
 >
 > And what is the foundation of this 'Order'? A dogma of control built on fear and prejudice!
 >
@@ -70,7 +71,7 @@ Delivered around **55 UL / 1046 Continental**—a period likely marked by recent
 >
 > The ruthlessness hidden behind the Llerathian Dogma became horrifyingly clear to me during the darkness of the last great Freedom War.
 >
-> Returning from a brief, stolen moment of youthful defiance outside the Hive walls, I saw the sky ablaze with an unnatural purple glow. A chilling premonition seized me. I ran through the forest, skipped mountain scree, arriving at the cliffs overlooking my home just in time to see it ablaze.
+> Returning from a brief moment of defiance outside the Hive walls, I saw the sky ablaze with an unnatural purple glow. A chilling premonition seized me. I ran through the forest, skipped mountain scree, arriving at the cliffs overlooking my home just in time to see it ablaze.
 >
 > And there she stood, Sworn Sister Inquisitor Astraea –a name spoken with fear even within [[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]]'s own ranks–, silhouetted against the inferno. Not for inspection, not for guidance, but the gleaming crystal in her hand, channeled the very 'Light' she claimed to serve into an instrument of annihilation.
 >
@@ -80,7 +81,9 @@ Delivered around **55 UL / 1046 Continental**—a period likely marked by recent
 >
 > Her gaze, those piercing yellow eyes, swept over me with chilling indifference. “Because you are ungrateful,” she pronounced, her voice devoid of warmth. “Selfish. Possessive. Your… deviations… challenged the path of the Light. Redemption was impossible. Your rebellion proved the darkness within. A pathway for entropy.”
 >
-> Darkness? Our darkness? We, who only yearned for the simple things– a family’s warmth, the freedom to question, to be like the rest of the world? How could she preach of a Goddess of Life while extinguishing lives with such casual cruelty? How could that same Goddess who boasted of being the embodiment of life's essence, yet abandoned the very life she had created? 
+> Darkness? Our darkness? We, who only yearned for the simple things– a family’s warmth, the freedom to question, to be like the rest of the world? How could she preach of a Goddess of Life while extinguishing lives with such casual cruelty? 
+> 
+> How could that same Goddess boast of being the embodiment of life's essence, yet abandon the very life she had *created*? 
 > 
 > In that moment, watching my world burn, I saw the lie at the heart of Llerath. We weren’t children of the Light; we were kindling. Expendable cogs in their machine of 'order.'
 >
@@ -90,11 +93,11 @@ Delivered around **55 UL / 1046 Continental**—a period likely marked by recent
 >
 > Desperation birthed a final, desperate gamble. I threw myself at Astraea's feet. "I VOLUNTEER!" I pleaded, the words choked by sobs. "I'll serve! Renounce everything! I will fight! I will pass the Spring Games! I will earn my place! Lux *must understand! Her Light couldn't want this! Sister… the Code… you must grant me this!"*
 >
-> Silence, save for the roaring fire and the crashing storm. Then, she bent down, offering a hand. For a fleeting instant, a flicker of something – pity? Amusement? – crossed her face before hardening back into Temple discipline. “Rise, child.”
+> Silence, save for the roaring fire and the crashing storm. Then, she bent down, offering a hand. For a fleeting instant, I had hope. A flicker of something crossed her face before hardening back into Temple discipline. “Rise, child.”
 >
 > She helped me up, even wiped a tear with a gesture almost… kind. And then I saw the truth in her eyes.
 >
-> "It is too late for you," she whispered, her grip tightening on my face, lifting me until her chilling smile filled my vision. "Corrupt. Rotten. *Chaotic.* You will *never* approach the purity of The Goddess. You are but a misstep that should be corrected… And you wish to fight? To prove your worth? You believe Lux will hear you?" Her eyes gleamed with malice. 
+> "It is too late for you," she whispered, her fingers digging in my cheeks past the point of kind comforting. The tight grip lifted me until her chilling smile filled my vision. "Corrupt. Rotten. *Chaotic.* You will *never* approach the purity of The Goddess. You are but a misstep that should be corrected… And you wish to fight? To prove your worth? You believe Lux will hear you?" Her eyes gleamed with malice. 
 > 
 > "Fine. Prove it. Cling to the despicable existence you deserve. Flee. Survive. And perhaps, one day, if the Goddess wills it, you will understand the power of *true Light.*" She raised her prism, and the world fractured. 
 >
@@ -133,3 +136,138 @@ The speech effectively leverages common NUL criticisms of Llerath: the suppressi
 While presented as factual testimony, the speech is undeniably crafted. It simplifies complex Llerathian structures (like the Volunteer system) into straightforward narratives of oppression and uses emotionally charged language to elicit sympathy and outrage. Its timing and delivery within Lady Demian's influential circle likely served to bolster Vanera's standing, showcase Demian's power in "rescuing" such individuals, and reinforce NUL unity against the external Llerathian threat. The circulation of this testimony, whether through official channels or word-of-mouth, continues to fuel anti-Llerathian sentiment across the Free Nations.
 
 ---
+:::hidden
+#### Related Articles
+
+*   [[Vanera Demian\|Vanera Demian]]
+*   [[About the world/People/Lady Demian\|Lady Demian]]
+*   [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]
+*   [[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]] (Llerathian Inquisition)
+*   [[Inquisitor Astraea\|Inquisitor Astraea]] (Requires Profile)
+*   [[Hives (Llerath)\|Hives (Llerath)]]
+*   [[NUL\|NUL]]
+*   [[Tiefling\|Tiefling]]
+*   [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]
+*   [[Spring Games\|Spring Games]]
+
+---
+**Tags:** #speech #testimony #NUL #Llerath #Inquisition #HiveSystem #TieflingOrigin #VaneraDemian #LadyDemian #Propaganda #SecondFreedomWar
+
+
+## (The "Indomitable Hive" Testimony)
+
+|                 |                                                                                     |
+| :-------------- | :---------------------------------------------------------------------------------- |
+| **Event**       | Appointment Ceremony                                                                |
+| **Speaker**     | [[Vanera Demian\|Vanera Demian]]                                                                   |
+| **Occasion**    | Formal induction as "Princess of the Burning Flame"                                 |
+| **Affiliation** | Inner Circle of [[About the world/People/Lady Demian\|Lady Demian]] ([[NUL\|NUL]])                                           |
+| **Location**    | Presumed Dhirdam, NUL territory                                                     |
+| **Date (Speech)** | Circa **55 UL / 1046 Continental**                                                  |
+| **Date (Events Described)** | Hive 81 Destruction circa **39-43 UL / 1030-1034 Continental** (During Second Freedom War) |
+| **Significance**| Public condemnation of Llerathian practices; Testimony of Inquisitor brutality during wartime; Explanation of Tiefling origins; Pledge of loyalty to Lady Demian |
+
+---
+
+### Overview
+
+The speech delivered by Vanera Demian circa **55 UL / 1046 Continental**, upon her formal appointment as "Princess of the Burning Flame," is a significant piece of anti-Llerathian testimony circulating within [[NUL\|NUL]] territories. It recounts her traumatic origins within the Llerathian Hive system and her violent transformation at the hands of [[Inquisitor Astraea\|Inquisitor Astraea]], events she places during the turbulent period of the **Second Freedom War (39-41 UL / 1030-1032 Continental)**. The speech leverages this wartime context to frame Llerathian actions as exceptionally brutal and hypocritical, contrasting the Empire's rhetoric of Light and Order with her experience of suppression and violence, thereby justifying her allegiance to [[About the world/People/Lady Demian\|Lady Demian]] and NUL ideals.
+
+---
+
+### Context
+
+Delivered around **55 UL / 1046 Continental**, this speech marked Vanera's formal acceptance into a position of power within [[About the world/People/Lady Demian\|Lady Demian]]'s influential network. The timing, shortly after the conclusion of events like the [[About the world/History/Sansi Civil War\|Sansi Civil War]] and potentially coinciding with significant upheavals within Llerath itself (like the NUL invasion targeting Lux), would have given her testimony particular resonance. The narrative anchors the destruction of Hive 81 and her transformation within the **Second Freedom War era (circa 39-43 UL / 1030-1034 Continental)**, a time when tensions between Llerath and the NUL were at their peak, and the actions of Llerath's Inquisitors may have been exceptionally harsh under wartime pressures.
+
+---
+
+### The Speech (Transcript)
+
+> "Good evening.
+>
+> I express my deepest and most sincere gratitude for everything this act represents to me.
+>
+> To finally be named Princess of the Burning Flame and a member of Lady Demian's inner circle implies, not only because of the great loyalty I hold for my savior, but because of my own history, achieving the recognition, once and for all, that the Freedom of our Nations is a fact.
+>
+> As many of you may know, I was not born free, nor did I know what freedom was until after my childhood. Until I understood that to defend what you believe in, sometimes you must stand up and protest.
+>
+> To find the path, sometimes you must plunge into darkness, and stop believing in what has always seemed right to you.
+>
+> It was a stormy Winter night **during the height of the last war** in **Hive 81**, known among those who still valued us as **The Indomitable Hive**, as a failed experiment to the rest. Perhaps some of you are unaware, but the abomination of the Llerathian Hives reaches the extreme where any unproven formula, any unknown variable that could result in problems for the deified elf is executed in isolation to eliminate it without raising rumors.
+>
+> And that is what **Sworn Sister Inquisitor Astraea**, feared even among her own kind, **riding high on the fervor of war**, had come to do that night: terminate the experiment of the Indomitable Hive.
+>
+> I was on my way home, returning from one of my escapes, when the purple glow in the sky alerted me that something unusual was happening. As if it were a premonition, the knot tightening in my gut told me something was wrong, so I ran through the forest, over the hill, down the mountainside to the cliffs to see what was happening.
+>
+> The flames were already consuming the hive, Astraea's silhouette stark against the light, the crystal in her hand gleaming as she focused her magic. It was in that moment that everything made sense: the Mothers' request to return early, the extra treats allowed to all the hopefuls before retiring. The worried glances about something that should have been good. My eyes couldn't believe it.
+>
+> “Why? Why? Why have you done this? Why haven't you listened to us, why…?”
+>
+> Her gaze, piercing yellow, scrutinized me with indifference.
+>
+> “Because you are ungrateful. Selfish, possessive. Your little games directly challenged the path of the Light. There was no possibility of redemption, and your repeated rebelliousness only showed the darkness in your hearts…”
+>
+> Her icy tone made the hair on my whole body stand on end, though I could feel the rage growing inside me. It wasn’t fair.
+>
+> I stopped listening as she lectured me. I didn’t want to, or couldn’t, hear anymore. How dared she call me that?
+>
+> Did she not see the same injustices as the rest? How could she believe in a Goddess who boasted of being the embodiment of life's essence, yet abandoned the very life she had created? It was clear we were little more than resources to achieve her goal, and she wouldn't stop playing with us until…
+>
+> “That’s not true!” I snapped, my voice choked with rage, legs trembling. “Haven't you seen what she's done to us?!”
+>
+> “It is your fault, for straying from the Light.” There was no trace of pity in her, no remorse. “The Goddess offers Her Light to the faithful, and devotes Herself body and soul so the Empire may flourish, so peace may reign, so…”
+>
+> “Lies!” I cut her off, tears streaming. “We just wanted to be… like the rest of the world! Why do we have to be different, why can't we have a family? Why do we have to serve someone who treats us as if we don't…?”
+>
+> The crackle of a beam giving way and collapsing part of the structure, taking the upper floors with it, sent me into shock as I remembered all my brothers, friends, those I would never see again. In my short years of life, I had already lived much more than any child, human or elf, should have lived. Hunger, sieges, pain, indoctrination, mental control, mass control.
+>
+> And now, the pain of losing everything that had helped me survive, that had given me strength, hope. Only Ionas was left for me then, and I didn't know when I could return to the village to see him. I didn’t even know if I would stay alive long enough… until I thought of the solution.
+>
+> Completely changing my attitude, I threw myself to my knees on the ground, imploring:
+>
+> “I volunteer! I will work, whatever is necessary, I will offer my entire body, soul, and being to the Empire! I will obey! I will renounce my rights, I will fight, fight and fight, and when I am ready, I will pass the Spring Games, achieve an honorable position and… speak with Lux! Her Goodness will understand, Her Light cannot have allowed this!” A deathly silence surrounded me, broken only by the crackling flames, the thunder, and my sobbing voice. “By the code she adheres to, Sister, you must heed my plea!”
+>
+> What were surely only a couple of seconds until Astraea approached me, crouched down, and offered me her hand, seemed like an eternity in the fervor of the moment.
+>
+> “Rise, child.” Although the monotony of the templar chant hadn't left her voice, I thought I saw, for a moment, the trace of a smirk on her face.
+>
+> She took my hand, helped me up. She dried my tears with a gesture that was almost affectionate, and in that moment, I saw *her*.
+>
+> “It is too late for you. I cannot allow someone as corrupt and rotten as you to approach the purity of The Goddess. I cannot allow someone like you to set foot on our lands…”
+>
+> I saw the evil dwelling deep in her eyes, as she gripped my face between her hands, lifting me mere centimeters from her deep golden eyes, from her limp mauve hair, from her now unsettling smile.
+>
+> “You say you want to fight? That you are right, that you are kind, that Lux will hear you? Fine. If you are so sure, prove it! You can lead a despicable existence if you wish. Flee, escape, cling to life. And when you are worthy of powers like mine, granted by the Light, return to Llerath.”
+>
+> Crushing my face, she raised her prism, which began to focus the magic around her.
+>
+> What she said, what she did, and what happened next is little more than a blur in my memory. I felt my soul being separated from my body, how the silver thread connecting me to it frayed. I felt the wisdom of the planes, I felt the weight of existence, I felt being, truth, knowledge, I felt ancient, incorporeal beings, I felt…
+>
+> I felt great pain when, regaining consciousness, I found myself lying in a place that slowly became familiar. I was in [[About the world/Nations/Kingdom of Sansi\|Sansi]], near Ionas's village. Near the lake. I tried to stand up, but my legs failed me. I tried to grab them, but… when I saw my hands, now dark, as you see, I got scared. The discomfort I felt on my forehead now seemed to be horns to the touch, my balance seemed disrupted by what would now be my tail, although I wasn't yet aware of it, and terrified by the prospect threatening me, I ran, stumbling through the forest, to the lake, seeking a reflective surface where I could see what had become of me.
+>
+> And that is when I saw it."
+
+---
+:::hidden
+### Analysis and Significance
+
+Vanera's speech remains a potent narrative weapon within the NUL. By anchoring the destruction of Hive 81 within the **Second Freedom War era (specifically 39-43 UL)**, she contextualizes Inquisitor Astraea's actions within a period of extreme measures and potentially heightened paranoia within Llerath. This timing lends credibility to the narrative of Llerathian brutality overriding principles of mercy, even towards its own citizens deemed deviant or experimental.
+
+The speech powerfully contrasts Llerath's ideals with Vanera's experience of systemic control and violent suppression for perceived non-conformity. Her transformation into a Tiefling is framed as a direct, malicious act by a powerful Inquisitor operating under wartime authority. Delivered decades later (**circa 55 UL**), the speech serves to rally anti-Llerathian sentiment, justify her loyalty to Demian, reinforce NUL narratives of Llerathian tyranny, and potentially inspire others with grievances against Lux's regime. Its emotional intensity and specific accusations make it a valuable, if inflammatory, piece of historical testimony regarding the darker aspects of Llerathian control, particularly during periods of conflict.
+
+---
+
+#### Related Articles
+
+*   [[Vanera Demian\|Vanera Demian]]
+*   [[About the world/People/Lady Demian\|Lady Demian]]
+*   [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]
+*   [[Inquisitor Astraea\|Inquisitor Astraea]]
+*   [[Hives (Llerath)\|Hives (Llerath)]]
+*   [[NUL\|NUL]]
+*   [[Tiefling\|Tiefling]]
+*   [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]
+
+---
+**Tags:** #speech #testimony #NUL #Llerath #Inquisition #HiveSystem #TieflingOrigin #VaneraDemian #LadyDemian #Propaganda #SecondFreedomWar
+:::

@@ -20,11 +20,11 @@
 
 #### Overview
 
-**Calliope Vanhoutte** is a prominent and often dramatic founding member of [[About the world/Organisations/The Cheese Company\|The Cheese Company]], an adventuring group operating primarily in [[Sansi\|Sansi]] and surrounding regions. Born into the influential Vanhoutte nobility of [[Lubnice\|Lubnice]], she eschewed a life of social protocols for the unpredictable path of an adventurer, driven by a desire for independence. Known for her **sharp wit**, **artistic magical talents**, and **resilient spirit**, Calliope serves as the **primary chronicler** for her companions, detailing their exploits, often with a humorous or sarcastic tone, in a series of personal journals. Despite facing numerous dangers, including a documented instance of **death** (c. 56 UL) and subsequent rescue, she continues to navigate complex political landscapes, magical threats, and personal afflictions with notable pragmatism and courage. The period of the [[Campaigns/LCDQ/The Visitor Trials\|The Visitor Trials]] and the culmination of events at [[Ursula\|Ursula]]'s lab (59 UL) represent the **most recent documented events** of her journey.
+**Calliope Vanhoutte** is a prominent and often dramatic founding member of [[About the world/Organisations/The Cheese Company\|The Cheese Company]], an adventuring group operating primarily in [[Sansi\|Sansi]] and surrounding regions. Born into the influential Vanhoutte nobility of [[About the world/Nations/Lubnice\|Lubnice]], she eschewed a life of social protocols for the unpredictable path of an adventurer, driven by a desire for independence. Known for her **sharp wit**, **artistic magical talents**, and **resilient spirit**, Calliope serves as the **primary chronicler** for her companions, detailing their exploits, often with a humorous or sarcastic tone, in a series of personal journals. Despite facing numerous dangers, including a documented instance of **death** (c. 56 UL) and subsequent rescue, she continues to navigate complex political landscapes, magical threats, and personal afflictions with notable pragmatism and courage. The period of the [[Campaigns/LCDQ/The Visitor Trials\|The Visitor Trials]] and the culmination of events at [[Ursula\|Ursula]]'s lab (59 UL) represent the **most recent documented events** of her journey.
 
 #### Background
 
-Calliope was born into the wealthy and influential Vanhoutte family in [[Lubnice\|Lubnice]], a territory known for its wine production and later annexed by the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] (58 UL). 
+Calliope was born into the wealthy and influential Vanhoutte family in [[About the world/Nations/Lubnice\|Lubnice]], a territory known for its wine production and later annexed by the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] (58 UL). 
 
 As the third child of Arnstein and Julfrid Vanhoutte, she grew up surrounded by wealth and social protocols, attending private schools and dedicating much of her free time to structured activities like horse riding, language lessons, music, and ballroom dance. She found this strict environment stifling, feeling she had few real friends and disliking the planned future laid out for her by her parents. 
 
@@ -149,7 +149,7 @@ As of UL 59, Calliope Vanhoutte continues to be an active adventurer and member 
 
 #### Trivia
 
-*   She was born into the wealthy Vanhoutte noble family of [[Lubnice\|Lubnice]], but chose a life of adventure over noble society.
+*   She was born into the wealthy Vanhoutte noble family of [[About the world/Nations/Lubnice\|Lubnice]], but chose a life of adventure over noble society.
 *   She was a **founding member of [[About the world/Organisations/The Cheese Company\|The Cheese Company]] in 55 UL**.
 *   She maintains extensive personal journals detailing her adventures.
 *   She has **died and been brought back to life/rescued from a state of non-existence** (c. 56 UL).
