@@ -43,7 +43,7 @@ The **Orcish Confederation of Votar Tok** is not a unified state.
 ## Great War / The Dazhan Companies
 
 *   **Huang-Da Zhan's Initiative:** Great War start, Huang-Da Zhan gathered 15 largest clan warchiefs in Kunjiong. Discussed war start, policy on outside kingdoms. Warchiefs disagreed on action (glory, weapons, power benefits). Huang-Da Zhan suggested mercenary companies for hire (strict condition: no orc battalion vs. orc).
-*   **Mercenary Companies Hired:** Companies hired by [[Llerath\|Llerath]] and [[NUL\|NUL]]. Orcs strategically sound (assault troops, disrupt entrenched positions, demoralize enemy). Shokugeki law suspended outside Votar Tok for companies. "Llerath-shi" and "Null-shi" companies (joke names) high casualties, thousands of orc deaths in foreign lands. Weapons/treasure flowed back, warband entrenchment. Easier to find armor than body to fill it.
+*   **Mercenary Companies Hired:** Companies hired by [[Llerath\|Llerath]] and [[About the world/Nations/NUL\|NUL]]. Orcs strategically sound (assault troops, disrupt entrenched positions, demoralize enemy). Shokugeki law suspended outside Votar Tok for companies. "Llerath-shi" and "Null-shi" companies (joke names) high casualties, thousands of orc deaths in foreign lands. Weapons/treasure flowed back, warband entrenchment. Easier to find armor than body to fill it.
 
 ## Suoding (Kingdom Closure)
 

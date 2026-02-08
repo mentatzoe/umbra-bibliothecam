@@ -196,7 +196,7 @@ Abierta a todos los estudiantes durante ejercicios programados.
 
 ### Salones de Embajada (Concordia)
 
-Salas decoradas al estilo de diferentes culturas de Tinnuith: [[Llerath\|Llerath]], ciudades de [[NUL\|NUL]], [[Criosia\|Criosia]], [[Votar Tok\|Votar Tok]], entre otras. Empleadas para practicar la comunicación intercultural.
+Salas decoradas al estilo de diferentes culturas de Tinnuith: [[Llerath\|Llerath]], ciudades de [[About the world/Nations/NUL\|NUL]], [[Criosia\|Criosia]], [[Votar Tok\|Votar Tok]], entre otras. Empleadas para practicar la comunicación intercultural.
 
 Abiertas a todos los estudiantes con reserva.
 
@@ -279,7 +279,7 @@ La zona está activamente prohibida. Hay señales de advertencia, guardas mágic
 ## Véase También
 
 - [[About the world/Organisations/Academia Canaan\|Academia Canaan]]
-- [[Campaigns/Academia Canaan/Bienvenidos al Preambulo/Guia de Admision\|Guia de Admision]]
+- [[Campaigns/Academia Canaan/Bienvenidos al Preambulo/Guía de Admisión\|Guía de Admisión]]
 - [[About the world/Organisations/The Vesper Crusaders\|Caballeros de Poniente]]
 - [[Consejo de Estudiantes\|Consejo de Estudiantes]]
 - [[Campaigns/Academia Canaan/Bienvenidos al Preambulo/Los Colegios\|Los Colegios]]

@@ -8,7 +8,7 @@
 | **Event**                    | Appointment Ceremony                                                                                                                                                                                                              |
 | **Speaker**                  | [[Vanera Demian\|Vanera Demian]]                                                                                                                                                                                                                 |
 | **Occasion**                 | Formal induction as "Princess of the Burning Flame"                                                                                                                                                                               |
-| **Speaker Affiliation**      | Inner Circle of [[About the world/People/Lady Demian\|Lady Demian]] ([[NUL\|NUL]])                                                                                                                                                                                         |
+| **Speaker Affiliation**      | Inner Circle of [[About the world/People/Lady Demian\|Lady Demian]] ([[About the world/Nations/NUL\|NUL]])                                                                                                                                                                                         |
 | **Location**                 | Dhirdam, NUL territory                                                                                                                                                                                                            |
 | **Date of Speech**           | Circa **55 UL / 1046 Continental**                                                                                                                                                                                                |
 | **Date of Events Recounted** | Hive 81 Destruction circa **39-43 UL / 1030-1034 Continental** (During [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]])                                                                                                       |
@@ -18,7 +18,7 @@
 
 ### Overview
 
-The speech delivered by Vanera Demian circa **55 UL / 1046 Continental**, upon her formal appointment as "Princess of the Burning Flame," stands as a significant piece of anti-Llerathian testimony circulating within [[NUL\|NUL]] territories. It recounts her traumatic origins within the [[About the world/Nations/Llerathian Empire\|Llerathian]] Hive system and her violent transformation at the hands of [[Inquisitor Astraea\|Inquisitor Astraea]], events she explicitly places during the heightened tensions of the **Second Freedom War (39-41 UL)**. The speech functions as both a powerful declaration of loyalty to her benefactor, [[About the world/People/Lady Demian\|Lady Demian]], and a carefully crafted piece of political rhetoric, designed to highlight the perceived hypocrisy and cruelty of Lux's regime while reinforcing core NUL values of freedom and arcane acceptance.
+The speech delivered by Vanera Demian circa **55 UL / 1046 Continental**, upon her formal appointment as "Princess of the Burning Flame," stands as a significant piece of anti-Llerathian testimony circulating within [[About the world/Nations/NUL\|NUL]] territories. It recounts her traumatic origins within the [[About the world/Nations/Llerathian Empire\|Llerathian]] Hive system and her violent transformation at the hands of [[Inquisitor Astraea\|Inquisitor Astraea]], events she explicitly places during the heightened tensions of the **Second Freedom War (39-41 UL)**. The speech functions as both a powerful declaration of loyalty to her benefactor, [[About the world/People/Lady Demian\|Lady Demian]], and a carefully crafted piece of political rhetoric, designed to highlight the perceived hypocrisy and cruelty of Lux's regime while reinforcing core NUL values of freedom and arcane acceptance.
 
 ---
 
@@ -145,7 +145,7 @@ While presented as factual testimony, the speech is undeniably crafted. It simpl
 *   [[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]] (Llerathian Inquisition)
 *   [[Inquisitor Astraea\|Inquisitor Astraea]] (Requires Profile)
 *   [[Hives (Llerath)\|Hives (Llerath)]]
-*   [[NUL\|NUL]]
+*   [[About the world/Nations/NUL\|NUL]]
 *   [[Tiefling\|Tiefling]]
 *   [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]
 *   [[Spring Games\|Spring Games]]
@@ -161,7 +161,7 @@ While presented as factual testimony, the speech is undeniably crafted. It simpl
 | **Event**       | Appointment Ceremony                                                                |
 | **Speaker**     | [[Vanera Demian\|Vanera Demian]]                                                                   |
 | **Occasion**    | Formal induction as "Princess of the Burning Flame"                                 |
-| **Affiliation** | Inner Circle of [[About the world/People/Lady Demian\|Lady Demian]] ([[NUL\|NUL]])                                           |
+| **Affiliation** | Inner Circle of [[About the world/People/Lady Demian\|Lady Demian]] ([[About the world/Nations/NUL\|NUL]])                                           |
 | **Location**    | Presumed Dhirdam, NUL territory                                                     |
 | **Date (Speech)** | Circa **55 UL / 1046 Continental**                                                  |
 | **Date (Events Described)** | Hive 81 Destruction circa **39-43 UL / 1030-1034 Continental** (During Second Freedom War) |
@@ -171,7 +171,7 @@ While presented as factual testimony, the speech is undeniably crafted. It simpl
 
 ### Overview
 
-The speech delivered by Vanera Demian circa **55 UL / 1046 Continental**, upon her formal appointment as "Princess of the Burning Flame," is a significant piece of anti-Llerathian testimony circulating within [[NUL\|NUL]] territories. It recounts her traumatic origins within the Llerathian Hive system and her violent transformation at the hands of [[Inquisitor Astraea\|Inquisitor Astraea]], events she places during the turbulent period of the **Second Freedom War (39-41 UL / 1030-1032 Continental)**. The speech leverages this wartime context to frame Llerathian actions as exceptionally brutal and hypocritical, contrasting the Empire's rhetoric of Light and Order with her experience of suppression and violence, thereby justifying her allegiance to [[About the world/People/Lady Demian\|Lady Demian]] and NUL ideals.
+The speech delivered by Vanera Demian circa **55 UL / 1046 Continental**, upon her formal appointment as "Princess of the Burning Flame," is a significant piece of anti-Llerathian testimony circulating within [[About the world/Nations/NUL\|NUL]] territories. It recounts her traumatic origins within the Llerathian Hive system and her violent transformation at the hands of [[Inquisitor Astraea\|Inquisitor Astraea]], events she places during the turbulent period of the **Second Freedom War (39-41 UL / 1030-1032 Continental)**. The speech leverages this wartime context to frame Llerathian actions as exceptionally brutal and hypocritical, contrasting the Empire's rhetoric of Light and Order with her experience of suppression and violence, thereby justifying her allegiance to [[About the world/People/Lady Demian\|Lady Demian]] and NUL ideals.
 
 ---
 
@@ -264,7 +264,7 @@ The speech powerfully contrasts Llerath's ideals with Vanera's experience of sys
 *   [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]
 *   [[Inquisitor Astraea\|Inquisitor Astraea]]
 *   [[Hives (Llerath)\|Hives (Llerath)]]
-*   [[NUL\|NUL]]
+*   [[About the world/Nations/NUL\|NUL]]
 *   [[Tiefling\|Tiefling]]
 *   [[About the world/History/Second War between Llerath and the Free Nations\|Second War between Llerath and the Free Nations]]
 

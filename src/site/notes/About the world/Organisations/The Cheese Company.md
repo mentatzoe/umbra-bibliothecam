@@ -32,7 +32,7 @@
 
 #### Story
 
-Founded in **55 UL** by [[Calliope\|Calliope]], [[About the world/People/Guan Dao\|Guan Dao]], and [[Dominik\|Dominik]], The Cheese Company rapidly involved itself in regional affairs. Early adventures (c. 55-56 UL) included surviving an attack by [[Inquisitor Astraea\|Inquisitor Astraea]] at Saunola Path, navigating the complex social landscape of [[Simpa\|Simpa]], investigating a pestilence near [[About the world/Nations/Osterrend\|Osterrend]], confronting a kidnapper **Necromancer** near Cava, hunting [[Zhang Fao\|Zhang Fao]]'s Warfa near [[Maraga\|Maraga]], and infiltrating a dangerous temple/lab where Calliope lost an eye.
+Founded in **55 UL** by [[Calliope\|Calliope]], [[About the world/People/Guan Dao\|Guan Dao]], and [[Dominik\|Dominik]], The Cheese Company rapidly involved itself in regional affairs. Early adventures (c. 55-56 UL) included surviving an attack by [[Inquisitor Astraea\|Inquisitor Astraea]] at Saunola Path, navigating the complex social landscape of [[Simpa\|Simpa]], investigating a pestilence near [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Osterrend - draft\|Osterrend - draft]], confronting a kidnapper **Necromancer** near Cava, hunting [[Zhang Fao\|Zhang Fao]]'s Warfa near [[Maraga\|Maraga]], and infiltrating a dangerous temple/lab where Calliope lost an eye.
 
 **56 UL** proved particularly tumultuous. The Company was deceived by [[About the world/People/Benin Hood Miller\|Benin Hood Miller]] into participating in the **[[Famax\|Famax]] Encounter**, which resulted in the death of their companion [[Laurentius\|Laurentius]]. They also investigated the **haunting of [[Rocamayor\|Rocamayor]]**, uncovering the dark secrets of the aberration [[Eileithiya\|Eileithiya]]. This year also saw Calliope suffer **death** near [[Sencia\|Sencia]] before being revived by [[Mathis\|Mathis]] and [[Dominik\|Dominik]].
 
@@ -86,7 +86,7 @@ The Cheese Company employs a variety of methods depending on the task and the me
 
 #### Cultural Significance
 
-The Cheese Company represents a notable independent adventuring force operating largely outside the direct control of major powers like the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] or the [[NUL\|NUL]]. Their involvement in the [[About the world/History/Sansi Civil War\|Sansi Civil War]] demonstrates the potential impact such groups can have on regional politics. Their chronicles, primarily through Calliope, offer a valuable, if biased, perspective on events often obscured by official histories.
+The Cheese Company represents a notable independent adventuring force operating largely outside the direct control of major powers like the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]] or the [[About the world/Nations/NUL\|NUL]]. Their involvement in the [[About the world/History/Sansi Civil War\|Sansi Civil War]] demonstrates the potential impact such groups can have on regional politics. Their chronicles, primarily through Calliope, offer a valuable, if biased, perspective on events often obscured by official histories.
 
 ---
 

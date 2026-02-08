@@ -13,7 +13,7 @@
 > |                       |                                                                                                |
 > | :-------------------- | :---------------------------------------------------------------------|
 > | **Alias(es)**       | Angie (Used by [[About the world/People/Lady Demian\|Lady Demian]])                                        |
-> | **Title(s)**          | Priestess of Rachna (Root Elf/Drow tradition), Survivor of the [[About the world/People/Orbital Palace\|Orbital Palace]], Leader of [[The Black Widows\|The Black Widows]] |
+> | **Title(s)**          | Priestess of Rachna (Root Elf/Drow tradition), Survivor of the [[About the world/Locations/Orbital Palace\|Orbital Palace]], Leader of [[The Black Widows\|The Black Widows]] |
 > | **Species**         | Root Elf / Drow                                                                                |
 > | **Affiliation(s)**    | [[About the world/People/Lady Demian\|Lady Demian]], [[The Black Widows\|The Black Widows]], [[Himbadihr\|Himbadihr]], Temple of [[Rachna\|Rachna]] |
 > | **Age**               | 51 years of age as of 1050C / 59UL |

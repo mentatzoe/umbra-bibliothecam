@@ -34,10 +34,64 @@ Umbra Bibliothecam seeks to understand the balance between order and chaos, mean
 
 Conflicts and challenges come and go, but a question still stands unanswered: **can the smothering danger that threatens the world be defeated if its very existence is forgotten?**
 
-```dataview
-TABLE dateformat(file.mtime,"dd.MM.yyyy") as "Last Modified"
-FROM "About the world"
-WHERE dg-publish = true
-SORT file.mtime DESC
-```
+| File                                                                                                                                                                       | Last Modified |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| [[About the world/History/History of the Nations United for Liberty\|History of the Nations United for Liberty]]                                                        | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Astagion\|Astagion]]                                                                                                   | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Bredapert\|Bredapert]]                                                                                                 | 08.02.2026    |
+| [[About the world/Nations/Nern Lodhur\|Nern Lodhur]]                                                                                                                    | 08.02.2026    |
+| [[About the world/Nations/NUL\|NUL]]                                                                                                                                    | 08.02.2026    |
+| [[About the world/Nations/Kingdom of Tevara\|Kingdom of Tevara]]                                                                                                        | 08.02.2026    |
+| [[About the world/Higher powers/Lux Aeterna\|Lux Aeterna]]                                                                                                              | 08.02.2026    |
+| [[About the world/People/Vivianne III, Queen of Criosia\|Vivianne III, Queen of Criosia]]                                                                               | 08.02.2026    |
+| [[About the world/People/Dietrich von Kunner\|Dietrich von Kunner]]                                                                                                     | 08.02.2026    |
+| [[About the world/People/Cyran Leowenis\|Cyran Leowenis]]                                                                                                               | 08.02.2026    |
+| [[About the world/Organisations/The Cheese Company\|The Cheese Company]]                                                                                                | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Almarosa\|Almarosa]]                                                                                                   | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Osterrend\|Osterrend]]                                                                                                 | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Molheim\|Molheim]]                                                                                                     | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Coefort\|Coefort]]                                                                                                     | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Adriaria\|Adriaria]]                                                                                                   | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Shancrani\|Shancrani]]                                                                                                 | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Kruce\|Kruce]]                                                                                                         | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/AlSaib\|AlSaib]]                                                                                                       | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Bunton\|Bunton]]                                                                                                       | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Vilin\|Vilin]]                                                                                                         | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Galrea\|Galrea]]                                                                                                       | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Talatos\|Talatos]]                                                                                                     | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Chuya\|Chuya]]                                                                                                         | 08.02.2026    |
+| [[About the world/Nations/City-states of the NUL/Dhirdam\|Dhirdam]]                                                                                                     | 07.02.2026    |
+| [[About the world/Organisations/The Vesper Crusaders\|The Vesper Crusaders]]                                                                                            | 04.02.2026    |
+| [[About the world/Nations/Kingdom of Sansi\|Kingdom of Sansi]]                                                                                                          | 04.02.2026    |
+| [[About the world/Organisations/Academia Canaan\|Academia Canaan]]                                                                                                      | 22.12.2025    |
+| [[About the world/People/Angaste\|Angaste]]                                                                                                                             | 17.05.2025    |
+| [[About the world/People/Nakneso Alsune\|Nakneso Alsune]]                                                                                                               | 17.05.2025    |
+| [[About the world/Lore/Appointment Speech of the Princess of the Burning Flame, Vanera Demian\|Appointment Speech of the Princess of the Burning Flame, Vanera Demian]] | 17.05.2025    |
+| [[About the world/People/Dominik Stoch\|Dominik Stoch]]                                                                                                                 | 11.05.2025    |
+| [[About the world/History/Sansi Civil War\|Sansi Civil War]]                                                                                                            | 11.05.2025    |
+| [[About the world/Higher powers/The Overseers\|The Overseers]]                                                                                                          | 11.05.2025    |
+| [[About the world/People/Lady Demian\|Lady Demian]]                                                                                                                     | 11.05.2025    |
+| [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]                                                                             | 11.05.2025    |
+| [[About the world/People/Primus Aegis Keith\|Primus Aegis Keith]]                                                                                                       | 11.05.2025    |
+| [[About the world/Organisations/Her Enlightened Enquiry\|Her Enlightened Enquiry]]                                                                                      | 11.05.2025    |
+| [[About the world/People/Leah Orcisia Malek\|Leah Orcisia Malek]]                                                                                                       | 11.05.2025    |
+| [[About the world/People/Primus Vindicator Lemons\|Primus Vindicator Lemons]]                                                                                           | 11.05.2025    |
+| [[About the world/Organisations/The Cause\|The Cause]]                                                                                                                  | 09.05.2025    |
+| [[About the world/People/Guan Dao\|Guan Dao]]                                                                                                                           | 09.05.2025    |
+| [[About the world/People/Calliope Vanhoutte\|Calliope Vanhoutte]]                                                                                                       | 09.05.2025    |
+| [[About the world/Locations/The Sigjund Complex\|The Sigjund Complex]]                                                                                                  | 25.04.2025    |
+| [[About the world/Nations/Confederation of Votar Tok\|Confederation of Votar Tok]]                                                                                      | 25.04.2025    |
+| [[About the world/Nations/Kingdom of Criosia\|Kingdom of Criosia]]                                                                                                      | 25.04.2025    |
+| [[About the world/Organisations/Las Astas del Rey\|Las Astas del Rey]]                                                                                                  | 25.04.2025    |
+| [[About the world/People/Lauren Evers\|Lauren Evers]]                                                                                                                   | 25.04.2025    |
+| [[About the world/People/Lord Famax\|Lord Famax]]                                                                                                                       | 25.04.2025    |
+| [[About the world/People/MUD - Students\|MUD - Students]]                                                                                                               | 25.04.2025    |
+| [[About the world/People/Theren Liadon Sr.\|Theren Liadon Sr.]]                                                                                                         | 25.04.2025    |
+| [[About the world/People/Void (Pelaios)\|Void (Pelaios)]]                                                                                                               | 25.04.2025    |
+| [[About the world/Lore/Llerathian Scriptures\|Llerathian Scriptures]]                                                                                                   | 21.04.2025    |
+| [[About the world/People/Catalino I, King of Sansi\|Catalino I, King of Sansi]]                                                                                         | 18.09.2024    |
+| [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]                                                                                                        | 18.09.2024    |
+| [[About the world/History/Separation of Sansi and Lubnice\|Separation of Sansi and Lubnice]]                                                                            | 05.07.2024    |
+
+{ .block-language-dataview}
 

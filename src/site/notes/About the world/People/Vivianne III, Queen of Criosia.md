@@ -25,7 +25,7 @@
 
 ## Education and Marriage
 
-*   **Joint Education:** Joint education with Dietrich Von Kunner of [[About the world/Nations/Osterrend\|Osterrend]] (Free Nations) under Magister Mendes (significant teenage years). Arranged marriage contract recovered, seemingly unfulfilled.
+*   **Joint Education:** Joint education with Dietrich Von Kunner of [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Osterrend - draft\|Osterrend - draft]] (Free Nations) under Magister Mendes (significant teenage years). Arranged marriage contract recovered, seemingly unfulfilled.
 
 ## Second War with Llerath
 

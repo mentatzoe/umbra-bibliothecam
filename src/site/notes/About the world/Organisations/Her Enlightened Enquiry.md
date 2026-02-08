@@ -31,7 +31,7 @@ Rooted in Lux Aeterna's core precepts, the HEE operates on the foundational Ller
 2.  **Containment of Chaos:** Detecting and neutralizing direct manifestations of chaos, whether magical, extraplanar, or ideological in nature, that threaten Imperial stability or the principles of the Light.
 3.  **Guidance and Regulation:** Ensuring that all sanctioned magic users (primarily Inquisitors themselves and those within newly established institutions) operate within strict ethical and doctrinal boundaries. The "Enlightened" status implies that only those guided by the Light possess the necessary wisdom and purity to wield magic responsibly.
 
-While historically focused primarily on suppression and control, post-reform philosophy incorporates a degree of **enlightened stewardship**, recognizing the necessity of *understanding* diverse arcane arts (under strict control) to better defend against external threats like the [[NUL\|NUL]]. The core tenet remains that Order, guided by the Light, is paramount for life to thrive safely.
+While historically focused primarily on suppression and control, post-reform philosophy incorporates a degree of **enlightened stewardship**, recognizing the necessity of *understanding* diverse arcane arts (under strict control) to better defend against external threats like the [[About the world/Nations/NUL\|NUL]]. The core tenet remains that Order, guided by the Light, is paramount for life to thrive safely.
 
 ---
 
@@ -86,7 +86,7 @@ HEE operatives typically work in paired units of an Inquisitor and their Shield(
 
 ### External Perceptions
 
-Outside Llerath, particularly within the [[NUL\|NUL]], Her Enlightened Enquiry is widely viewed with fear and condemnation. It is seen as the primary instrument of Llerath's suppression of magical freedom and individual thought, enforcing a rigid, unwanted doctrine through intrusive surveillance and often brutal means. Testimonies from defectors detailing experiences with Inquisitors fuel this perception of HEE as an oppressive, tyrannical force.
+Outside Llerath, particularly within the [[About the world/Nations/NUL\|NUL]], Her Enlightened Enquiry is widely viewed with fear and condemnation. It is seen as the primary instrument of Llerath's suppression of magical freedom and individual thought, enforcing a rigid, unwanted doctrine through intrusive surveillance and often brutal means. Testimonies from defectors detailing experiences with Inquisitors fuel this perception of HEE as an oppressive, tyrannical force.
 
 ---
 
@@ -108,7 +108,7 @@ Outside Llerath, particularly within the [[NUL\|NUL]], Her Enlightened Enquiry i
 *   [[About the world/People/Primus Inquisitor Theren Liadon\|Primus Inquisitor Theren Liadon]]
 *   [[Keith\|Keith]]
 *   [[Inquisitor Astraea\|Inquisitor Astraea]]
-*   [[NUL\|NUL]]
+*   [[About the world/Nations/NUL\|NUL]]
 *   [[About the world/Organisations/The Cause\|The Cause]]
 *   [[Magic in Llerath\|Magic in Llerath]]
 

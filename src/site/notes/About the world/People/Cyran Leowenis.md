@@ -24,13 +24,13 @@
 
 #### Overview
 
-Cyran Leowenis is an elven agent affiliated with the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]'s intelligence branch, the Beehive, and hails from the Llerathian [[House Godric\|House Godric]]. Operating under the guise of an independent druid in the vicinity of the NUL city-state of [[About the world/Nations/Osterrend\|Osterrend]], Cyran engages in covert activities, including monitoring local events, recruiting assets, and potentially orchestrating operations aligned with Llerathian interests. He is known for his meticulous nature, resourcefulness, and use of truth-compelling magic to verify information. He is the brother of [[About the world/People/Brother Ash\|Brother Ash]].
+Cyran Leowenis is an elven agent affiliated with the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]'s intelligence branch, the Beehive, and hails from the Llerathian [[House Godric\|House Godric]]. Operating under the guise of an independent druid in the vicinity of the NUL city-state of [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Osterrend - draft\|Osterrend - draft]], Cyran engages in covert activities, including monitoring local events, recruiting assets, and potentially orchestrating operations aligned with Llerathian interests. He is known for his meticulous nature, resourcefulness, and use of truth-compelling magic to verify information. He is the brother of [[About the world/People/Brother Ash\|Brother Ash]].
 
 ---
 
 #### Background
 
-Cyran Leowenis belongs to [[House Godric\|House Godric]], an elven noble family within the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]. Like his brother, [[About the world/People/Brother Ash\|Brother Ash]], Cyran seemingly dedicated himself to the service of the Empire, joining the ranks of the Beehive, Llerath's intelligence service. At some point prior to 59 UL, he established an operational presence near [[About the world/Nations/Osterrend\|Osterrend]], a major city within the rival [[NUL\|NUL]].
+Cyran Leowenis belongs to [[House Godric\|House Godric]], an elven noble family within the [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]. Like his brother, [[About the world/People/Brother Ash\|Brother Ash]], Cyran seemingly dedicated himself to the service of the Empire, joining the ranks of the Beehive, Llerath's intelligence service. At some point prior to 59 UL, he established an operational presence near [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Osterrend - draft\|Osterrend - draft]], a major city within the rival [[About the world/Nations/NUL\|NUL]].
 
 To maintain cover in this potentially hostile territory, Cyran adopted the persona of an independent Elven Druid. He publicly claims origins from **Ylma Thalore**, a location described as northeast of [[Eldengroth\|Eldengroth]] – notably, a region whose Old Elves are known to have distanced themselves from Llerath, making this a plausible origin story to mask his true Imperial allegiance. His activities suggest a long-term assignment focused on gathering intelligence and influencing events within or near Osterrend.
 
@@ -71,7 +71,7 @@ Cyran presents as a concerned and knowledgeable druid, demonstrating awareness o
 #### Allies and Enemies
 
 *   **Allies:** [[About the world/People/Brother Ash\|Brother Ash]] (Family), operatives and superiors within the Llerathian Beehive, [[About the world/Nations/Llerathian Empire\|Llerathian Empire]]. Individuals or groups contracted for specific missions (temporary).
-*   **Enemies:** [[NUL\|NUL]] counter-intelligence, [[About the world/Organisations/The Cause\|The Cause]], any factions or individuals actively working against Llerathian interests in the region. His undercover status makes anyone potentially suspicious of his true motives an enemy.
+*   **Enemies:** [[About the world/Nations/NUL\|NUL]] counter-intelligence, [[About the world/Organisations/The Cause\|The Cause]], any factions or individuals actively working against Llerathian interests in the region. His undercover status makes anyone potentially suspicious of his true motives an enemy.
 
 ---
 
@@ -85,7 +85,7 @@ Cyran presents as a concerned and knowledgeable druid, demonstrating awareness o
 
 #### Current Role
 
-As of 59 UL, Cyran Leowenis appears to be actively engaged in intelligence operations in or around the city of [[About the world/Nations/Osterrend\|Osterrend]]. Under the guise of an independent druid, he monitors local developments, recruits external assets for specific tasks, and coordinates actions aligned with the strategic objectives of the Llerathian Beehive. His recent activities involve preparing adventurers for a significant, potentially disruptive, event within Osterrend.
+As of 59 UL, Cyran Leowenis appears to be actively engaged in intelligence operations in or around the city of [[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Osterrend - draft\|Osterrend - draft]]. Under the guise of an independent druid, he monitors local developments, recruits external assets for specific tasks, and coordinates actions aligned with the strategic objectives of the Llerathian Beehive. His recent activities involve preparing adventurers for a significant, potentially disruptive, event within Osterrend.
 
 ---
 

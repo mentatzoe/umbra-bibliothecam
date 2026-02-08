@@ -44,6 +44,6 @@
 - [[About the world/Higher powers/The Overseers\|The Overseers]]
 - [[About the world/Higher powers/Knimick, The Unseen Hand\|Knimick, The Unseen Hand]]
 - [[About the world/Higher powers/Lythara, Weaver of Infinite Patterns\|Lythara, Weaver of Infinite Patterns]]
-- [[NUL\|NUL]]
+- [[About the world/Nations/NUL\|NUL]]
 
 **Tags:** #faction #secretsociety #politics #magic #revolution #antagonist #organization

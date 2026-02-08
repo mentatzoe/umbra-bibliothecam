@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/about-the-world/people/dietrich-von-kunner/"}
 ---
 
-First-born of the Von Kunner family ([[About the world/Nations/Osterrend\|Osterrend]] de facto Nobility), Dietrich showed an affinity for magical artefacts constructs from a very early age.
+First-born of the Von Kunner family ([[1.DMing Assets/DRAFTS - Worldbuilding and brainstorming/Osterrend - draft\|Osterrend - draft]] de facto Nobility), Dietrich showed an affinity for magical artefacts constructs from a very early age.
 
 As part of a commercial agreement, [[Jurgen von Kunner\|Jurgen von Kunner]], current head of the Kunner family, arranged a marriage between Dietrich and [[Vivianne Rothtopper\|Vivianne Rothtopper]] in 1032C.
 
